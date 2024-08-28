@@ -5,6 +5,7 @@ Dieses Konzept ist ausserdem dafür gedacht, später mal in einem Buch oder eine
 
 ## Politik
 [Verfassung der vereinigten Staaten von Europa](/Politics/Verfassung.md)
+[Abläufe](/Politics/Procedures/Ablaeufe.md)
 
 ### Organe der Union
 Legislative: [Parlament der vereinigten Staaten von Europa](/Politics/Legislature/Legislative.md)

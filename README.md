@@ -6,4 +6,14 @@ Dieses Konzept ist ausserdem dafür gedacht, später mal in einem Buch oder eine
 ## Politik
 [Verfassung der vereinigten Staaten von Europa](/Politics/Verfassung.md)
 
+### Organe der Union
+Legislative: [Parlament der vereinigten Staaten von Europa](/Politics/Legislature/Legislative.md)
+Exekutive: [Präsident & Kommission der vereinigten Staaten von Europa](/Politics/Executive/Exekutive.md)
+Judikative: [Europäischer Gerichtshof](/Politics/Judicative/Judikative.md)
+
+#### Unabhängige Institutionen
+Zentralbank: [Europäische Nationalbank](/Politics/Independent/Nationalbank.md)
+Rechnungshof: [Rechnungshof der vereinigten Staaten von Europa](/Politics/Independent/Rechnungshof.md)
+Unabhängige Behörden: [Unabhängige Regierungsbehörden](/Politics/Independent/UnabhaengigeBehoerden.md)
+
 ## Geschichte

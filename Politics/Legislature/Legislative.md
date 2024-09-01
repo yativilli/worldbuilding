@@ -1,6 +1,6 @@
 # Legislative
 Die Legislative der vereinigten Staaten besteht gemäss [Art. XX]() der Verfassung aus der Bundesversammlung der vereinigten Staaten von Europa.
-Sie schreiben die [Gesetze](/Politics/Legislature/Laws/Gesetze.md)
+Sie schreiben die [Gesetze](worldbuilding/Politics/Legislature/Laws/Gesetze.md)
 Dieses Parlament besteht aus den zwei Kammern: 
 - der Nationalrat und
 - der Staatsrat

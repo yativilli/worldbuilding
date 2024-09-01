@@ -1,54 +1,265 @@
-# Unification Act of 2024
+# UNIFICATION ACT OF 2024
 
 ## §1 Zweck und Geltungsbereich
-(1) Dieses Gesetz regelt die Einrichtung der Vereinigten Staaten von Europa und deren Vereinigung bis zum Ende der Übergangszeit. Die Übergangszeit endet nach 10 Jahren.
-(2) Das Gesetz wird als **Gesetz über die Vereinigung der Vereinigten Staaten von Europa** oder als **Unification Act of 2024** bezeichnet.
-(3) Dieses Gesetz gilt für die Republik Albanien, das Fürstentum Andorra, die Republik Belarus, das Königreich Belgien, die Republik Bosnien und Herzegowina, die Republik Bulgarien, 
-    das Königreich Dänemark, die Bundesrepublik Deutschland, die Republik Estland, die Republik Finnland, die Republik Frankreich, die Republik Griechenland, die Republik Irland, 
-    die Republik Island, die Republik Italien, die Republik Kosovo, die Republik Kroatien, die Republik Lettland, das Fürstentum Liechtenstein, die Republik Litauen, 
-    das Grossherzogtum Luxembourg, die Republik Malta, die Republik Moldau, das Fürstentum Monaco, die Republik Montenegro, das Königreich der Niederlande, die Republik Nordmazedonien, 
-    das Königreich Norwegen, die Republik Österreich, die Republik Polen, die Republik Portugal, die Republik Rumänien, die Republik San Marino, das Königreich Schweden, 
-    die Schweizerische Eidgenossenschaft, die Republik Serbien, die Republik Slowakei, die Republik Slowenien, das Königreich Spanien, die Republik Tschechien, die Republik Ukraine, 
-    die Republik Ungarn, der Staat Vatikanstadt, das Vereinigte Königreich von Grossbritannien und Nordirland sowie alle deren Gebiete und Territorien.
+(1) Dieses Gesetz regelt die Einrichtung der Vereinigten Staaten von Europa und deren Vereinigung. Es regelt den rechtlichen und die organisatorischen Rahmenbedingen für den Prozess der Vereinigung der Gliedstaaten zu einem föderalen Bundesstaat.
+(2) Durch dieses Gesetz werden die vereinigten Staaten von Europa gegründet. Die Gründung ist vollzogen, wenn alle verfassungsmässigen Institutionen ihre Funktionen vollständig übernommen haben. Während der Übergangszeit regelt dieses Gesetz die rechtlichen Umstände.
+(3) Das Gesetz wird als **Gesetz über die Vereinigung der Vereinigten Staaten von Europa** oder als **Unification Act of 2024** bezeichnet.
+(4) Dieses Gesetz gilt für 
+- die Republik Albanien, 
+- das Fürstentum Andorra, 
+- die Republik Belarus, 
+- das Königreich Belgien, 
+- die Republik Bosnien und Herzegowina, 
+- die Republik Bulgarien, 
+- das Königreich Dänemark, 
+- die Bundesrepublik Deutschland, 
+- die Republik Estland, 
+- die Republik Finnland, 
+- die Republik Frankreich, 
+- die Republik Griechenland, 
+- die Republik Irland, 
+- die Republik Island, 
+- die Republik Italien, 
+- die Republik Kosovo, 
+- die Republik Kroatien, 
+- die Republik Lettland, 
+- das Fürstentum Liechtenstein, 
+- die Republik Litauen, 
+- das Grossherzogtum Luxembourg, 
+- die Republik Malta, 
+- die Republik Moldau, 
+- das Fürstentum Monaco, 
+- die Republik Montenegro, 
+- das Königreich der Niederlande, 
+- die Republik Nordmazedonien,
+- das Königreich Norwegen, 
+- die Republik Österreich, 
+- die Republik Polen, 
+- die Republik Portugal, 
+- die Republik Rumänien, 
+- die Republik San Marino, 
+- das Königreich Schweden, 
+- die Schweizerische Eidgenossenschaft, 
+- die Republik Serbien, 
+- die Republik Slowakei, 
+- die Republik Slowenien, 
+- das Königreich Spanien, 
+- die Republik Tschechien, 
+- die Republik Ukraine, 
+- die Republik Ungarn, 
+- der Staat Vatikanstadt, 
+- das Vereinigte Königreich von Grossbritannien und Nordirland 
 
-## §2 Zusammensetzung von Organen
-(1) Vom 08.02.25 - 16.02.25 werden Wahlen zum europäischen Parlament und zum Präsidenten der Vereinigten Staaten von Europa abgehalten. 
-    Nach der Parlamentswahl werden in der ersten Sitzung die europäische Kommission und der europäische Gerichtshof gewählt. 
-    Im Falle der Unmöglichkeit der Durchführung der Wahlen ist unverzüglich ein neuer Termin zu setzen. 
-(2) Während einer Übergangszeit von 12 Jahren geben die Gliedstaaten die in der Verfassung reservierten Kompetenzen und Territorien an die Union ab. 
-    Die Ministerien der Gliedstaaten arbeiten in den Bereichen solange weiter, bis ein reibungsloser Übergang möglich ist. Die Gliedstaaten sind dazu verpflichtet, den Übergang reibungslos zu ermöglichen.
-(3) Während einer Übergangszeit von 20 Jahren verhandelt die Kommission die Autonomiestatuten mit jedem Territorium die Verteilung der Kompetenzen und Rechte.
-(4) Die Bundeskanzlei wird als erstes Organ bestellt; Sie beginnt mit der Organisation der Ministerien, Bundesämter und anderer Staatsabteilungen. 
-    Sie besetzt diese bestmöglich mit bisherigen Angestellten der Gliedstaaten.
-(5) Die auswärtigen Angelegenheiten der Gliedstaaten gehen mit Ratifizierung der Verfassung direkt an den Hohen Vertreter der Europäischen Union für Aussen- und Sicherheitspolitik.
-    Er besitzt damit für die Übergangszeit die Oberhoheit über alle Ministerien und Staatsabteilungen innerhalb seiner Kompetenzen.
-    Die Aufgaben dieses Amtes gehen mit der Wahl der ersten Kommission vollumfänglich an den Vorsteher des Departements des Auswärtigen.
-(6) Alle Kompetenzen, die der Unionsregierung gemäss Verfassung zustehen, werden bis zur Wahl der ersten Europäischen Kommission von der bisherigen Kommission der Europäischen Union ausgeübt.
-    Die Kommission besitzt die Oberhoheit über alle Ministerien und Staatsabteilungen innerhalb ihrer Kompetenzen.
-(7) Alle Kompetenzen, die dem Unionsparlament gemäss Verfassung zustehen, werden bis zur Wahl des ersten Europäischen Parlaments vom bisherigen Parlament der Europäischen Union ausgeübt.
-(8) Alle Kompetenzen, die den Unionsgerichten gemäss Verfassung zustehen, werden bis zur Wahl des ersten Europäischen Gerichtshof vom bisherigen Gerichtshof der Europäischen Union ausgeübt.
+sowie alle Gebiete und Territorien der gennanten Staaten.
+(5) Der Vereinigungsprozess zielt darauf ab, eine einheitliche politische, wirtschaftliche und rechtliche Struktur zu schaffen, die die Souveränität und Identität der Teilstaaten wahrt und gleichzeitig die Einheit und Stärke des neuen Bundesstaates fördert.
+(6) Die grundlegenden Prinzipien der Demokratie, der Rechtsstaatlichkeit und der Menschenrechte werden im neuen Bundesstaat verankert und geschützt.
 
-## §3 Landdispute
-(1) Mit Ratifzierung der Verfassung geben jegliche Gliedstaaten jegliche Ansprüche auf Territorien und Gebiete anderer Teilstaaten auf. 
-    Ausserdem erkennen jegliche Gliedstaaten die Existenz aller anderen Gliedstaaten an.
+## §2 Vereinigungsgremium 
+(1) Nach der Unterzeichnung dieses Gesetzes durch die Staatsoberhäupter der Vertragsstaaten entsendet jeder der Staat jeweils das Staatsoberhaupt, deren Regierungschef und Parlamentspräsident in das Vereinigungsgremium. 
+(2) Das Vereinigungsgremium trifft sich mindestens alle drei Monate bis zur vollständigen Ratifizierung der Verfassung durch jeden Vertragsstaat.
+(3) Das Gremium besitzt während dem Vereinigungsprozess die Befugnisse, die gemeinsame Aussen- und Sicherheitspolitik zu bestimmen. Ausserdem koordiniert das Gremium den Vereinigungsprozess bis sich die verfassungsmässigen Organe vollständig konstituiert haben. Das Gremium wird danach aufgelöst und verliert seine Befugnisse.
 
-## §4 Völkerrechtssubjekte
-(1) Unverzüglich nach der Ratifizierung der Verfassung gibt der jeweilige Gliedstaat seine Souveränität als Völkerrechtssubjekt ab und wird zu einem untergeordneten Völkerrechtssubjekt der Union.
-(2) Die vereinigten Staaten von Europa erhalten den Status eines völlig souveränen Staates und Völkerrechtssubjektes.
-(3) Die europäische Union löst sich am Zeitpunkt der Inkrafttretung dieses Gesetzes auf. Alle Kompetenzen und Budgetierungen gehen an die Vereinigten Staaten von Europa über.
-(4) Dieses Gesetz untersteht der Gerichtsbarkeit des Europäischen Gerichtshofes.
+## §3 Übergangsregierung & Ratifikation
+(1) Zur Koordinierung des Vereinigungsprozesses leiten die bisherigen Organe der Europäischen Union die Regierungsgeschäfte und Abläufe geschäftsführend. Sie beginnt mit der vorbereitung der Parlamentswahlen und Präsidentschaftswahlen und beginnt die Übergabe der Befugnisse der Nationalstaaten an die Unionsregierung.
+(2) Sie stellt sicher, das bestehende EU-Gesetze und Verordnungen weiterhin in Kraft bleiben und eingehalten werden bis zum Ende der Übergangszeit.
+(3) Die ausgearbeitete Verfassung unterliegt dem Referendum. Die Annahme erfordert das Volks- und Ständemehr.
 
 ## §5 Gesetze
-(1) Alle Gesetze, Verordnungen und sonstige Beschlüsse und Richtlinien der europäischen Union und der Gliedstaaten gelten weiter, infsofern sie nicht der Verfassung wiedersprechen.
+(1) Alle Gesetze, Verordnungen und sonstige Beschlüsse und Richtlinien der europäischen Union und der Gliedstaaten sind weiter rechtskräftig, infsofern sie nicht der Verfassung wiedersprechen.
+(2) Alle Gesetze, Verordnungen und sonstige Beschlüsse und Richtlinien der Vertragsstaaten bleiben rechtskräftig, sofern sie nicht der Verfassung wiedersprechen.
+(3) Gesetze und Verordnungen, die wichtig und notwendig sind, aber nicht aufgelöst werden können bevor nicht ersetzende Regelungen vorhanden sind, bleiben in Kraft.
+(4) Behörden, die nach der Ratifikation der Verfassung Zuständigkeiten behandeln, die in der Zuständigkeit der Union liegen, werden solange weitergeführt, bis die entsprechenden Strukturen der Union vollständig eingerichtet sind und alle Aufgaben übergeben wurdne.
 
-## §5 Inkrafttretung
+## §6 Übergangsbestimmungen
+(1) Die Gerichtsbarkeit innerhalb der Union in Unionsrecht und EU-Recht liegt bis zum Ende der Übergangszeit beim Europäischen Gerichtshof der Europäischen Union.
+(2) Die Gesetzgebung auf Unionsebene wird während der Übergangszeit ausschliesslich vom Europäischen Parlament wahrgenommen. Vertragsstaaten, die nicht im bestehenden Parlament vertreten sind, erhalten gemäss ihrer Bevölkerungszahl Anspruch auf Abgeordnete, deren mindestens drei. Die Anzahl Abgeordnete kann die bisher vertraglich festgelegte Obergrenze an Abgeordneten überschreiten.
+(3) Die Exekutive der Union ist während der Übergangszeit die bisherige EU-Kommission als Übergangsregierung. Sie kann mit Einverständniss des Vereinigungsgremiums und des Europäischen Parlaments modifiziert werden.
 
+## §7 Inkrafttreten
+Dieses Gesetz tritt am Tag nach seiner Verkündung in Kraft und gilt bis zum Abschluss des Vereinigungsprozesses oder innerhalb einer Frist von 25 Jahren. Die konstituierten beiden Kammern des europäischen Parlaments kann seine Wirkungsdauer verlängern, sofern nötig.
 
-_________________________________
-Präsident der europäischen Kommission der Europäischen Union
+## §8 Schlussbestimmungen
+(1) Im Rahmen des Vereinigungsprozesses werden alle notwendigen Maßnahmen ergriffen, um einen reibungslosen Übergang zu gewährleisten und die Rechte der Bürgerinnen und Bürger zu schützen.
+(2) Dieses Gesetz kann durch das Parlament des neuen Bundesstaates nach dessen Konstituierung geändert oder aufgehoben werden, um den veränderten politischen und rechtlichen Rahmenbedingungen Rechnung zu tragen.
+(3) Die Vertragsstaaten verpflichten sich, den Vereinigungsprozess aktiv zu unterstützen und die notwendige Zusammenarbeit auf allen Ebenen zu fördern, um das Ziel eines föderalen Bundesstaates zu erreichen.
 
+REPUBLIK ALBANIEN
+Präsident Bajram Begaj
+Ministerpräsident Edi Rama
 
-_________________________________
-Präsident des Rates der Europäischen Union
+FÜRSTENTUM ANDORRA
+Kofürst Emmanuel Macron 
+Bischof von Urgell, Joan Enric Vives i Sicília
+Regierungschef Xavier Espot Zamora
 
-Dieses Gesetz tritt am 06.06.2024 um 00:00:00 in Kraft.
+REPUBLIK BELARUS
+Präsident Swjatlana Zichanouskaja
+Ministerpräsidentin Maryja Kalesnikawa
+
+KÖNIGREICH BELGIEN
+König Philippe
+Premierminister Alexander De Croo
+
+REPUBLIK BOSNIEN UND HERZEGOWINA
+Vorsitzender des Staatspräsidiums Željko Komšić
+Ministerpräsident Borjana Krišto
+
+REPUBLIK BULGARIEN
+Präsident Rumen Radew
+Ministerpräsident Nikolaj Denkow
+
+KÖNIGREICH DÄNEMARK
+Königin Margrethe II.
+Ministerpräsidentin Mette Frederiksen
+
+BUNDESREPUBLIK DEUTSCHLAND
+Bundespräsident Frank-Walter Steinmeier
+Bundeskanzler Olaf Scholz
+
+REPUBLIK ESTLAND
+Präsident Alar Karis
+Ministerpräsidentin Kaja Kallas
+
+REPUBLIK FINNLAND
+Präsident Sauli Niinistö
+Ministerpräsidentin Petteri Orpo
+
+REPUBLIK FRANKREICH
+Präsident Emmanuel Macron
+Premierministerin Élisabeth Borne
+
+REPUBLIK GRIECHENLAND
+Präsidentin Katerina Sakellaropoulou
+Ministerpräsident Kyriakos Mitsotakis
+
+REPUBLIK IRLAND
+Präsident Michael D. Higgins
+Premierminister Leo Varadkar
+
+REPUBLIK ISLAND
+Präsident Guðni Th. Jóhannesson
+Ministerpräsidentin Katrín Jakobsdóttir
+
+REPUBLIK ITALIEN
+Präsident Sergio Mattarella
+Ministerpräsidentin Giorgia Meloni
+
+REPUBLIK KOSOVO
+Präsidentin Vjosa Osmani
+Ministerpräsident Albin Kurti
+
+REPUBLIK KROATIEN
+Präsident Zoran Milanović
+Ministerpräsident Andrej Plenković
+
+REPUBLIK LETTLAND
+Präsident Edgars Rinkēvičs
+Ministerpräsidentin Evika Siliņa
+
+FÜRSTENTUM LIECHTENSTEIN
+Fürst Hans-Adam II
+Regierungschef Daniel Risch
+
+REPUBLIK LITAUEN
+Präsident Gitanas Nausėda
+Ministerpräsidentin Ingrida Šimonytė
+
+GROSSHERZOGTUM LUXEMBURG
+Großherzog Henri
+Premierminister Xavier Bettel
+
+REPUBLIK MALTA
+Präsident George Vella
+Premierminister Robert Abela
+
+REPUBLIK MOLDAU
+Präsidentin Maia Sandu
+Ministerpräsident Dorin Recean
+
+FÜRSTENTUM MONACO
+Fürst Albert II.
+Ministerpräsident Pierre Dartout
+
+REPUBLIK MONTENEGRO
+Präsident Jakov Milatović
+Ministerpräsident Milojko Spajić
+
+KÖNIGREICH DER NIEDERLANDE
+König Willem-Alexander
+Premierminister Mark Rutte
+
+REPUBLIK NORDMAZEDONIEN
+Präsident Stevo Pendarovski
+Ministerpräsident Dimitar Kovačevski
+
+KÖNIGREICH NORWEGEN
+König Harald V.
+Ministerpräsident Jonas Gahr Støre
+
+REPUBLIK ÖSTERREICH
+Bundespräsident Alexander Van der Bellen
+Bundeskanzler Karl Nehammer
+
+REPUBLIK POLEN
+Präsident Andrzej Duda
+Ministerpräsident Mateusz Morawiecki
+
+REPUBLIK PORTUGAL
+Präsident Marcelo Rebelo de Sousa
+Ministerpräsident António Costa
+
+REPUBLIK RUMÄNIEN
+Präsident Klaus Johannis
+Ministerpräsident Marcel Ciolacu
+
+REPUBLIK SAN MARINO
+Kapitänregent Filippo Tamagnini
+Kapitänregent Gaetano Troina
+KÖNIGREICH SCHWEDEN
+König Carl XVI. Gustaf
+Ministerpräsident Ulf Kristersson
+
+SCHWEIZERISCHE EIDGENOSSENSCHAFT
+Bundespräsidentin Viola Amherd 
+Bundesrat und Vorsteher des Departments für auswärtige Angelegenheiten Ignazio Cassis
+
+REPUBLIK SERBIEN
+Präsident Marinika Tepić
+Ministerpräsidentin Dragan Đilas
+
+REPUBLIK SLOWAKEI
+Präsidentin Zuzana Čaputová
+Ministerpräsident Ľudovít Ódor
+
+REPUBLIK SLOWENIEN
+Präsidentin Nataša Pirc Musar
+Ministerpräsident Robert Golob
+
+KÖNIGREICH SPANIEN
+König Felipe VI.
+Ministerpräsident Pedro Sánchez
+
+REPUBLIK TSCHECHIEN
+Präsident Petr Pavel
+Ministerpräsident Petr Fiala
+
+REPUBLIK UKRAINE
+Präsident Wolodymyr Selenskyj
+Ministerpräsident Denys Schmyhal
+
+REPUBLIK UNGARN
+Präsidentin Katalin Novák
+Ministerpräsident Viktor Orbán
+
+STAAT VATIKANSTADT
+Papst Franziskus
+Staatssekretär Pietro Parolin
+
+VEREINIGTES KÖNIGREICH VON GROSSBRITANNIEN UND NORDIRLAND
+König Charles III.
+Premierminister Keir Starmer
+
+EUROPÄISCHE UNION
+Präsident des Europäischen Rates Charles Michel
+Präsidentin der Europäischen Kommission Ursula von der Leyen
+Präsidentin des Europäischen Parlaments Roberta Metsola

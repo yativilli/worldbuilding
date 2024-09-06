@@ -107,7 +107,7 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 8. Organisation und Führung der Bundespolizei
 9. Einrichtung und Organisation der Bundesbehörden und sonstigen Bundesämter
 10. Nationale Geschichtserhaltung und Archivierung
-11. Energiepolitik betreffend Kernkraftwerke.
+11. Energiepolitik betreffend Kernenergie.
 
 ## Artikel 14: Geteilte Zuständigkeiten
 
@@ -121,7 +121,6 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 - Sprachen;
 - Kirche und Staat;
 - Sicherheit und Schutz der Bevölkerung und des Landes im Rahmen der Polizei und der Strafverfolgung;
-
 - Nachhaltigkeit und Schutz der Umwelt;
 - Öffentlicher Verkehr;
 - Strasseninfrastruktur;
@@ -146,9 +145,7 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 ## Artikel 17: Ewigkeitsklausel
 
 (1) Eine Änderung dieser Verfassung, durch welche die Gliederung des Bundes in Teilstaaten, die grundsätzliche Mitwirkung dieser Staaten bei der Gesetzgebung oder die in den Art. 2, Art. 3, Art. 4, Art. 5 Abs. 1, Art. 6, Art. 7, Art. 9, Art. 11 niedergelegten Grundsätze berührt werden sind unzulässig.
-(2) Ebenso unzulässig ist die vollständige Ausserkraftsetzung der Charta der Menschenrechte sowie das Ausserkraftsetzen oder unmöglich machen der Mitspracherechte des Volkes sind unzulässig
-
-  
+(2) Ebenso unzulässig ist die vollständige Ausserkraftsetzung der Charta der Menschenrechte sowie das Ausserkraftsetzen oder unmöglich machen der Mitspracherechte des Volkes. Der Kerninhalte sind unantastbar.
 
 # Titel 2: Die Organe der Union
 
@@ -529,8 +526,6 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * d. Sie behandelt Beschwerden, soweit das Gesetz es vorsieht.
 (2) Das Gesetz kann der Kommission weitere Aufgaben und Befugnisse übertragen.
 
-  
-
 ## Kapitel 6: Europäischer Gerichtshof
 
 ### Artikel 73: Stellung
@@ -562,6 +557,11 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 (1) Die Union bestellt ein Strafgericht; dieses beurteilt erstinstanzlich Straffälle, die das Gesetz der Gerichtsbarkeit der Union zuweist. Das Gesetz kann weitere Zuständigkeiten des Unionsstrafgerichts begründen.
 (2) Die Union bestellt ein Verwaltungsgericht; dieses beurteilt öffentlich-rechtliche Streitigkeiten aus dem Zuständigkeitsbereich der Bundesverwaltung.
 (3) Das Gesetz kann weitere richterliche Behörden der Union vorsehen.
+
+### Artikel 78a: Unverjährbarkeit
+(1) Die Union kann durch Gesetz Straftaten als unverjährbar erklären. 
+(2) Mord und andere Straftaten, die vorsätzlich den Tod zur Folge haben, verjähren nicht.
+(3) Sexualvergehen an und mit Kindern, Abhängigen und Jugendlichen verjähren nicht. Personen, die zu solchen Vergehen verurteilt wurden, verlieren das Recht, eine berufliche oder ehrenamtliche Tätigkeit mit Minderjährigen oder Abhängigen jemals wieder auszuüben. 
 
 ### Artikel 79: Richterliche Behörden der Gliedstaaten
 
@@ -599,176 +599,248 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 (1) Die Bundesversammlung und die europäische Kommission sind dazu angehalten, den Unionspräsidenten über ihre Tätigkeiten zu informieren, ihn zu konsultieren und sich von ihm Rat einholen zu lassen
 
+## Kapitel 7: Finanzordnung
+
+### Artikel 85: Haushaltsführung
+(1) Der Bund hält seine Ausgaben und Einnahmen auf Dauer im Gleichgewicht.
+(2) Der Höchstbetrag der im Voranschlag zu bewilligenden Gesamtausgaben richtet sich unter Berücksichtigung der Wirtschaftslage nach den geschätzten Einnahmen.
+(3) Bei ausserordentlichem Zahlungsbedarf kann der Höchstbetrag nach Absatz 2 angemessen erhöht werden. Über eine Erhöhung beschliesst die Bundesversammlung.
+(4) Überschreiten die in der Staatsrechnung ausgewiesenen Gesamtausgaben den Höchstbetrag nach Absatz 2 oder 3, so sind die Mehrausgaben in den Folgejahren zu kompensieren.
+(5) Das Gesetz regelt die Einzelheiten.
+
+### Artikel 86: Grundsätze der Besteuerung
+(1) Die Ausgestaltung der Steuern, namentlich der Kreis der Steuerpflichtigen, der Gegenstand der Steuer und deren Bemessung, ist in den Grundzügen im Gesetz selbst zu regeln.
+(2) Soweit es die Art der Steuer zulässt, sind dabei insbesondere die Grundsätze der Allgemeinheit und der Gleichmässigkeit der Besteuerung sowie der Grundsatz der Besteuerung nach der wirtschaftlichen Leistungsfähigkeit zu beachten.
+(3) Die intergliedstaatliche Doppelbesteuerung ist untersagt. Die Union trifft die erforderlichen Massnahmen.
+
+### Artikel 87: Direkte Steuern
+(1) Die Union kann direkte Steuern erheben. 
+(2) Sie nimmt bei der Festsetzung auf die Belastung durch die direkten Steuern der Gliedstaaten Rücksicht.
+(3) Bei der Steuer auf dem Einkommen der natürlichen Personen werden die Folgen der kalten Progression periodisch ausgeglichen.
+(4) Die Steuer wird von den Kantonen veranlagt und eingezogen.
+
+### Artikel 89: Steuerharmonisierung
+(1) Die Union legt Grundsätze fest über die Harmonisierung der direkten Steuern von Union und Gliedstaaten; sie berücksichtigt die Harmonisierungsbestrebungen der Gliedstaaten.
+
+(2) Die Harmonisierung erstreckt sich auf Steuerpflicht, Gegenstand und zeitliche Bemessung der Steuern, Verfahrensrecht und Steuerstrafrecht. Von der Harmonisierung ausgenommen bleiben insbesondere die Steuertarife, die Steuersätze und die Steuerfreibeträge.
+
+(3) Die Union kann Vorschriften gegen ungerechtfertigte steuerliche Vergünstigungen erlassen.
+
+### Artikel 90: Besondere Besteuerung grosser Unternehmensgruppen
+(1) Die Union kann für grosse Unternehmensgruppen Vorschriften über eine Besteuerung im Marktstaat und eine Mindestbesteuerung erlassen.
+
+(2) Sie orientiert sich dabei an internationalen Standards und Mustervorschriften.
+
+(3) Sie kann zur Wahrung der Interessen der europäischen Gesamtwirtschaft abweichen von:
+* den Grundsätzen der Allgemeinheit und der Gleichmässigkeit der Besteuerung sowie dem Grundsatz der Besteuerung nach der wirtschaftlichen Leistungsfähigkeit gemäss Artikel 87.
+* den Vorschriften über den Vollzug gemäss Artikel 87 Absatz 4;
+* den Ausnahmen von der Steuerharmonisierung gemäss Artikel 89 Absatz 2 zweiter Satz.
+
+### Artikel 91: Mehrwertsteuer
+(1) Die Union kann auf Lieferungen von Gegenständen und auf Dienstleistungen einschliesslich Eigenverbrauch sowie auf Einfuhren eine Mehrwertsteuer mit einem Normalsatz von höchstens 6,5 Prozent und einem reduzierten Satz von mindestens 2,0 Prozent erheben.
+(2) Das Gesetz kann für die Besteuerung der Beherbergungsleistungen einen Satz zwischen dem reduzierten Satz und dem Normalsatz festlegen.
+(3) Ist wegen der Entwicklung des Altersaufbaus die Finanzierung der Alters-, Hinterlassenen- und Invalidenversicherung nicht mehr gewährleistet, so kann in der Form eines Bundesgesetzes der Normalsatz um höchstens 1 Prozentpunkt und der reduzierte Satz um höchstens 0,3 Prozentpunkte erhöht werden.
+
+### Artikel 92: Besondere Verbrauchssteuern
+(1) Die Union kann besondere Verbrauchssteuern erheben auf:
+* Tabak und Tabakwaren,
+* Alkohol,
+* Automobile und deren Bestandteile,
+* Erdöl, andere Mineraläle, Erdgas und aus derer Verarbeitung gewonnenen Produkten und Treibstoffen.
+
+### Artikel 93: Stempel- und Verrechnungssteuer
+(1) Die Union kann auf Wertpapieren, auf Quittungen von Versicherungsprämien und auf anderen Urkunden des Handelsverkehrs eine Stempelsteuer erheben; ausgenommen von der Stempelsteuer sind Urkunden des Grundstück- und Grundpfandverkehrs.
+
+(2) Die Union kann auf dem Ertrag von beweglichem Kapitalvermögen, auf Lotteriegewinnen und auf Versicherungsleistungen eine Verrechnungssteuer erheben. Vom Steuerertrag fallen 10 Prozent den Gliedstaaten zu.
+
+### Artikel 94: Zölle
+(1) Die Gesetzgebung über Zölle und andere Abgaben auf dem grenzüberschreitenden Warenverkehr ist Sache der Union.
+
+### Artikel 95: Ausschluss Gliedstaatlicher Besteuerung
+(1) Was die Unionsgesetzgebung als Gegenstand der Mehrwertssteuer, der besonderen Verbrauchssteuern, der Stempelsteuer und der Verrechnungssteuer bezeichnet oder für steuerfrei erklärt, dürfen die Gliedstaaten und nachgegliederten Teilregierungen nicht mit gleichartigen Steuern belasten.
+
+### Artikel 96: Finanz- und Lastenausgleich
+(1) Die Union erlässt Vorschriften über einen angemessenen Finanz- und Lastenausgleich zwischen Union und Gliedstaaten sowie zwischen den Gliedstaaten.
+(2) Der Finanz- und Lastenausgleich soll insbesondere:
+* die Unterschiede in der finanziellen Leistungsfähigkeit zwischen den Gliedstaaten verringern;
+* den Gliedstaaten minimale finanzielle Ressourcen gewährleisten;
+* übermässige finanzielle Lasten der Gliedstaaten aufgrund ihrer geografischtopografischen oder soziodemografischen Bedingungen ausgleichen;
+* die intergliedstaatliche Zusammenarbeit mit Lastenausgleich fördern;
+* die steuerliche Wettbewerbsfähigkeit der Gliedstaaten im nationalen und internationalen Verhältnis erhalten.
+(3) Die Mittel für den Ausgleich der Ressourcen werden durch die ressourcenstarken Gliedstaaten und die Union zur Verfügung gestellt. Die Leistungen der ressourcenstarken Gliedstaaten betragen mindestens zwei Drittel und höchstens 80 Prozent der Leistungen der Union.
 
 # Titel 3: Charta der Menschen- und Bürgerrechte
 
 ## Kapitel 1: Grundrechte
 
-### Artikel 85: Menschenwürde
+### Artikel 97: Menschenwürde
 
 (1) Die Würde des Menschen ist zu achten und zu schützen.
 
-### Artikel 86: Rechtsgleichheit
+### Artikel 98: Rechtsgleichheit
 
 (1) Alle Menschen sind vor dem Gesetz gleich.
 (2) Niemand darf diskriminiert werden, namentlich nicht wegen der Herkunft, der Rasse, des Geschlechts, des Alters, der Sprache, der sozialen Stellung, der Lebensform, der religiösen, weltanschaulichen oder politischen Überzeugung oder wegen einer körperlichen, geistigen oder psychischen Behinderung.
 (3) Mann und Frau sind gleichberechtigt. Das Gesetz sorgt für ihre rechtliche und tatsächliche Gleichstellung, vor allem in Familie, Ausbildung und Arbeit. Mann und Frau haben Anspruch auf gleichen Lohn für gleichwertige Arbeit.
 (4) Das Gesetz sieht Massnahmen zur Beseitigung von Benachteiligungen der Behinderten vor.
 
-### Artikel 87: Schutz vor Willkür und Wahrung von Treu und Glauben
+### Artikel 99: Schutz vor Willkür und Wahrung von Treu und Glauben
 
 (1) Jede Person hat Anspruch darauf, von den staatlichen Organen ohne Willkür und nach Treu und Glauben behandelt zu werden.
 
-### Artikel 88: Recht auf Leben und auf persönliche Freiheit
+### Artikel 100: Recht auf Leben und auf persönliche Freiheit
 
 (1) Jeder Mensch hat das Recht auf Leben. Die Todesstrafe ist verboten.
 (2) Jeder Mensch hat das Recht auf persönliche Freiheit, insbesondere auf körperliche und geistige Unversehrtheit und auf Bewegungsfreiheit.
 (3) Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung sind verboten.
 
-### Artikel 89: Verbot der Verhüllung des eigenen Gesichts
+### Artikel 101: Verbot der Verhüllung des eigenen Gesichts
 
 (1) Niemand darf sein Gesicht im öffentlichen Raum und an Orten verhüllen, die öffentlich zugänglich sind oder an denen grundsätzlich von jedermann beanspruchbare Dienstleistungen angeboten werden; das Verbot gilt nicht für Sakralstätten.
 (2) Niemand darf eine Person zwingen, ihr Gesicht aufgrund ihres Geschlechts zu verhüllen.
 (3) Das Gesetz sieht Ausnahmen vor. Diese umfassen ausschliesslich Gründe der Gesundheit, der Sicherheit, der klimatischen Bedingungen und des einheimischen Brauchtums.
 
-### Artikel 90: Schutz der Kinder und Jugendlichen
+### Artikel 102: Schutz der Kinder und Jugendlichen
 
 (1) Kinder und Jugendliche haben Anspruch auf besonderen Schutz ihrer Unversehrtheit und auf Förderung ihrer Entwicklung.
 (2) Sie üben ihre Rechte im Rahmen ihrer Urteilsfähigkeit aus.
 
-### Artikel 91: Recht auf Hilfe in Notlagen
+### Artikel 103: Recht auf Hilfe in Notlagen
 
 (1) Wer in Not gerät und nicht in der Lage ist, für sich zu sorgen, hat Anspruch auf Hilfe und Betreuung und auf die Mittel, die für ein menschenwürdiges Dasein unerlässlich sind.
 
-### Artikel 92: Schutz der Privatsphäre
+### Artikel 104: Opferhilfe
+(1) Union und Gliedstaaten sorgen dafür, dass Personen, die durch eine Straftat in ihrer körperlichen, psychischen oder sexuellen Unversehrtheit beeinträchtigt worden sind, Hilfe erhalten und angemessen entschädigt werden, wenn sie durch die Straftat in wirtschaftliche Schwierigkeiten geraten.
+
+### Artikel 105: Schutz der Privatsphäre
 
 (1) Jede Person hat Anspruch auf Achtung ihres Privat- und Familienlebens, ihrer Wohnung sowie ihres Brief-, Post- und Fernmeldeverkehrs.
 (2) Jede Person hat Anspruch auf Schutz vor Missbrauch ihrer persönlichen Daten.
 
-### Artikel 93: Recht auf Ehe und Familie
+### Artikel 106: Recht auf Ehe und Familie
 
 (1) Das Recht auf Ehe und Familie ist gewährleistet.
 
-### Artikel 94: Glaubens- und Gewissensfreiheit
+### Artikel 107: Glaubens- und Gewissensfreiheit
 
 (1) Die Glaubens- und Gewissensfreiheit ist gewährleistet.
 (2) Jede Person hat das Recht, ihre Religion und ihre weltanschauliche Überzeugung frei zu wählen und allein oder in Gemeinschaft mit anderen zu bekennen.
 (3) Jede Person hat das Recht, einer Religionsgemeinschaft beizutreten oder anzugehören und religiösem Unterricht zu folgen.
 (4) Niemand darf gezwungen werden, einer Religionsgemeinschaft beizutreten oder anzugehören, eine religiöse Handlung vorzunehmen oder religiösem Unterricht zu folgen.
 
-### Artikel 95: Meinungs- und Informationsfreiheit
+### Artikel 108: Meinungs- und Informationsfreiheit
 
 (1) Die Meinungs- und Informationsfreiheit ist gewährleistet.
 (2) Jede Person hat das Recht, ihre Meinung frei zu bilden und sie ungehindert zu äussern und zu verbreiten.
 (3) Jede Person hat das Recht, Informationen frei zu empfangen, aus allgemein zugänglichen Quellen zu beschaffen und zu verbreiten.
 
-### Artikel 96: Medienfreiheit
+### Artikel 109: Medienfreiheit
 
 (1) Die Freiheit von Presse, Radio und Fernsehen sowie anderer Formen der öffentlichen fernmeldetechnischen Verbreitung von Darbietungen und Informationen ist gewährleistet.
 (2) Zensur ist verboten.
 (3)  Das Redaktionsgeheimnis ist gewährleistet.
 
-### Artikel 97: Sprachenfreiheit
+### Artikel 110: Sprachenfreiheit
 
 (1) Die Sprachenfreiheit ist gewährleistet.
 
-### Artikel 98: Anspruch auf Grundschulunterricht
+### Artikel 111: Anspruch auf Grundschulunterricht
 
 (1) Der Anspruch auf ausreichenden und unentgeltlichen Grundschulunterricht ist gewährleistet.
 
-### Artikel 99: Wissenschaftsfreiheit
+### Artikel 112: Wissenschaftsfreiheit
 
 (1) Die Freiheit der wissenschaftlichen Lehre und Forschung ist gewährleistet.
 
-### Artikel 100: Kunstfreiheit
+### Artikel 113: Kunstfreiheit
 
 (1) Die Freiheit der Kunst ist gewährleistet.
 
-### Artikel 101: Versammlungsfreiheit
+### Artikel 114: Versammlungsfreiheit
 
 (1) Die Versammlungsfreiheit ist gewährleistet.
 (2) Jede Person hat das Recht, Versammlungen zu organisieren, an Versammlungen teilzunehmen oder Versammlungen fernzubleiben.
 
-### Artikel 102: Vereinigungsfreiheit
+### Artikel 115: Vereinigungsfreiheit
 
 (1) Die Vereinigungsfreiheit ist gewährleistet.
 (2) Jede Person hat das Recht, Vereinigungen zu bilden, Vereinigungen beizutreten oder anzugehören und sich an den Tätigkeiten von Vereinigungen zu beteiligen.
 (3) Niemand darf gezwungen werden, einer Vereinigung beizutreten oder anzugehören.
 
-### Artikel 103: Niederlassungsfreiheit
+### Artikel 116: Niederlassungsfreiheit
 
 (1) Europäerinnen und Europäer haben das Recht, sich an jedem Ort des Landes niederzulassen.
 (2) Sie haben das Recht, Europa zu verlassen oder nach Europa einzureisen.
 
-### Artikel 104: Schutz vor Ausweisung, Auslieferung und Ausschaffung
+### Artikel 117: Schutz vor Ausweisung, Auslieferung und Ausschaffung
 
 (1) Europäerinnen und Europäer dürfen nicht aus Europa ausgewiesen werden; sie dürfen nur mit ihrem Einverständnis an eine ausländische Behörde ausgeliefert werden.
 (2) Flüchtlinge dürfen nicht in einen Staat ausgeschafft oder ausgeliefert werden, in dem sie verfolgt werden.
 (3) Niemand darf in einen Staat ausgeschafft werden, in dem ihm Folter oder eine andere Art grausamer und unmenschlicher Behandlung oder Bestrafung droht.
 
-### Artikel 105: Eigentumsgarantie
+### Artikel 118: Eigentumsgarantie
 
 (1) Das Eigentum ist gewährleistet.
 (2) Enteignungen und Eigentumsbeschränkungen, die einer Enteignung gleichkommen, werden voll entschädigt.
 
-### Artikel 106: Wirtschaftsfreiheit
+### Artikel 119: Wirtschaftsfreiheit
 
 (1) Die Wirtschaftsfreiheit ist gewährleistet.
 (2) Sie umfasst insbesondere die freie Wahl des Berufes sowie den freien Zugang zu einer privatwirtschaftlichen Erwerbstätigkeit und deren freie Ausübung.
 
-### Artikel 107: Koalitionsfreiheit
+### Artikel 120: Koalitionsfreiheit
 
 (1) Die Arbeitnehmerinnen und Arbeitnehmer, die Arbeitgeberinnen und Arbeitgeber sowie ihre Organisationen haben das Recht, sich zum Schutz ihrer Interessen zusammenzuschliessen, Vereinigungen zu bilden und solchen beizutreten oder fernzubleiben.
 (2) Streitigkeiten sind nach Möglichkeit durch Verhandlung oder Vermittlung beizulegen.
 (3) Streik und Aussperrung sind zulässig, wenn sie Arbeitsbeziehungen betreffen und wenn keine Verpflichtungen entgegenstehen, den Arbeitsfrieden zu wahren oder Schlichtungsverhandlungen zu führen.
 (4) Das Gesetz kann bestimmten Kategorien von Personen den Streik verbieten.
 
-### Artikel 108: Allgemeine Verfahrensgarantien
+### Artikel 121: Allgemeine Verfahrensgarantien
 
 (1) Jede Person hat in Verfahren vor Gerichts- und Verwaltungsinstanzen Anspruch auf gleiche und gerechte Behandlung sowie auf Beurteilung innert angemessener Frist.
 (2) Die Parteien haben Anspruch auf rechtliches Gehör.
 (3) Jede Person, die nicht über die erforderlichen Mittel verfügt, hat Anspruch auf unentgeltliche Rechtspflege, wenn ihr Rechtsbegehren nicht aussichtslos erscheint. Soweit es zur Wahrung ihrer Rechte notwendig ist, hat sie ausserdem Anspruch auf unentgeltlichen Rechtsbeistand.
 
-### Artikel 109: Rechtsweggarantie
+### Artikel 122: Rechtsweggarantie
 
-(1) Jede Person hat bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch eine richterliche Behörde. Bund und Kantone können durch Gesetz die richterliche Beurteilung in Ausnahmefällen ausschliessen.
+(1) Jede Person hat bei Rechtsstreitigkeiten Anspruch auf Beurteilung durch eine richterliche Behörde. Union und Gliedstaaten können durch Gesetz die richterliche Beurteilung in Ausnahmefällen ausschliessen.
 
-### Artikel 110: Gerichtliche Verfahren
+### Artikel 123: Gerichtliche Verfahren
 
 (1) Jede Person, deren Sache in einem gerichtlichen Verfahren beurteilt werden muss, hat Anspruch auf ein durch Gesetz geschaffenes, zuständiges, unabhängiges und unparteiisches Gericht. Ausnahmegerichte sind untersagt.
 (2) Jede Person, gegen die eine Zivilklage erhoben wird, hat Anspruch darauf, dass die Sache vom Gericht des Wohnsitzes beurteilt wird. Das Gesetz kann einen anderen Gerichtsstand vorsehen.
 (3) Gerichtsverhandlung und Urteilsverkündung sind öffentlich. Das Gesetz kann Ausnahmen vorsehen.
 
-### Artikel 111: Freiheitsentzug
+### Artikel 124: Freiheitsentzug
 
 (1) Die Freiheit darf einer Person nur in den vom Gesetz selbst vorgesehenen Fällen und nur auf die im Gesetz vorgeschriebene Weise entzogen werden.
 (2) Jede Person, der die Freiheit entzogen wird, hat Anspruch darauf, unverzüglich und in einer ihr verständlichen Sprache über die Gründe des Freiheitsentzugs und über ihre Rechte unterrichtet zu werden. Sie muss die Möglichkeit haben, ihre Rechte geltend zu machen. Sie hat insbesondere das Recht, ihre nächsten Angehörigen benachrichtigen zu lassen.
 (3) Jede Person, die in Untersuchungshaft genommen wird, hat Anspruch darauf, unverzüglich einer Richterin oder einem Richter vorgeführt zu werden; die Richterin oder der Richter entscheidet, ob die Person weiterhin in Haft gehalten oder freigelassen wird. Jede Person in Untersuchungshaft hat Anspruch auf ein Urteil innert angemessener Frist.
 (4) Jede Person, der die Freiheit nicht von einem Gericht entzogen wird, hat das Recht, jederzeit ein Gericht anzurufen. Dieses entscheidet so rasch wie möglich über die Rechtmässigkeit des Freiheitsentzugs.
 
-### Artikel 112: Strafverfahren
+### Artikel 125: Strafverfahren
 
 (1) Jede Person gilt bis zur rechtskräftigen Verurteilung als unschuldig.
 (2) Jede angeklagte Person hat Anspruch darauf, möglichst rasch und umfassend über die gegen sie erhobenen Beschuldigungen unterrichtet zu werden. Sie muss die Möglichkeit haben, die ihr zustehenden Verteidigungsrechte geltend zu machen.
 (3) Jede verurteilte Person hat das Recht, das Urteil von einem höheren Gericht überprüfen zu lassen. Ausgenommen sind die Fälle, in denen das Bundesgericht als einzige Instanz urteilt.
 
-### Artikel 113: Petitionsrecht
+### Artikel 126: Petitionsrecht
 
 (1) Jede Person hat das Recht, Petitionen an Behörden zu richten; es dürfen ihr daraus keine Nachteile erwachsen.
 (2) Die Behörden haben von Petitionen Kenntnis zu nehmen.
 
-### Artikel 114: Politische Rechte
+### Artikel 127: Politische Rechte
 
 (1) Die politischen Rechte sind gewährleistet.
 (2) Die Garantie der politischen Rechte schützt die freie Willensbildung und die unverfälschte Stimmabgabe.
 
-### Artikel 115: Verwirklichung der Grundrechte
+### Artikel 128: Verwirklichung der Grundrechte
 
 (1) Die Grundrechte müssen in der ganzen Rechtsordnung zur Geltung kommen.
 (2) Wer staatliche Aufgaben wahrnimmt, ist an die Grundrechte gebunden und verpflichtet, zu ihrer Verwirklichung beizutragen.
 (3) Die Behörden sorgen dafür, dass die Grundrechte, soweit sie sich dazu eignen, auch unter Privaten wirksam werden.
 
-### Artikel 116: Einschränkung von Grundrechten
+### Artikel 129: Einschränkung von Grundrechten
 
 (1) Einschränkungen von Grundrechten bedürfen einer gesetzlichen Grundlage. Schwerwiegende Einschränkungen müssen im Gesetz selbst vorgesehen sein. Ausgenommen sind Fälle ernster, unmittelbarer und nicht anders abwendbarer Gefahr.
 (2) Einschränkungen von Grundrechten müssen durch ein öffentliches Interesse oder durch den Schutz von Grundrechten Dritter gerechtfertigt sein.
@@ -777,12 +849,12 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ## Kapitel 2: Bürgerrecht und politische Rechte
 
-### Artikel 117: Bürgerrechte
+### Artikel 130: Bürgerrechte
 
 (1) Bürger oder Bürgerin der vereinigen Staaten von Europa ist, wer das Bürgerrecht einer Gemeinde und das Bürgerrecht eines Gliedstaates besitzt.
 (2) Niemand darf wegen seiner Bürgerrechte bevorzugt oder benachteiligt werden. Ausgenommen sind Vorschriften über die politischen Rechte in Bürgergemeinden und Korporationen sowie über die Beteiligung an deren Vermögen, es sei denn, die gliedstaatliche Gesetzgebung sehe etwas anderes vor.
 
-### Artikel 118: Erwerb und Verlust der Bürgerrechte
+### Artikel 131: Erwerb und Verlust der Bürgerrechte
 
 (1) Die Union regelt Erwerb und Verlust der Bürgerrechte durch Abstammung, Heirat und Adoption. Sie regelt zudem den Verlust des europäischen Bürgerrechts aus anderen Gründen sowie die Wiedereinbürgerung.
 (2) Er erlässt Mindestvorschriften über die Einbürgerung von Ausländerinnen und Ausländern durch die Gliedstaaten und erteilt die Einbürgerungsbewilligung.
@@ -790,21 +862,21 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * a. Personen der dritten Ausländergeneration;
 * b. Staatenlosen Kindern.
 
-### Artikel 119: Ausübung der politischen Rechte
+### Artikel 132: Ausübung der politischen Rechte
 
 (1) Die Union regelt die Ausübung der politischen Rechte in gesamtstaatlichen, die Gliedstaaten regeln sie in gliedstaatlichen und kommunalen Angelegenheiten.
 (2) Die politischen Rechte werden am Wohnsitz ausgeübt. Union und Gliedstaaten können Ausnahmen vorsehen.
 (3) Niemand darf die politischen Rechte in mehr als einem Gliedstaat ausüben.
 (4) Die Gliedstaaten können vorsehen, dass Neuzugezogene das Stimmrecht in gliedstaatlichen und kommunalen Angelegenheiten erst nach einer Wartefrist von höchstens drei Monaten nach der Niederlassung ausüben dürfen.
 
-### Artikel 120: Auslandseuropäerinnen und Auslandseuropäer
+### Artikel 133: Auslandseuropäerinnen und Auslandseuropäer
 
 (1) Die Union fördert die Beziehungen der Auslandseuropäerinnen und Auslandseuropäer untereinander und zu den Vereinigten Staaten von Europa. Er kann Organisationen unterstützen, die dieses Ziel verfolgen.
 (2) Er erlässt Vorschriften über die Rechte und Pflichten der Auslandseuropäerinnen und Auslandseuropäer, namentlich in Bezug auf die Ausübung der politischen Rechte im Bund, die Erfüllung der Pflicht, Militär- oder Ersatzdienst zu leisten, die Unterstützung sowie die Sozialversicherungen.
 
 ## Kapitel 3: Sozialziele
 
-### Artikel 121
+### Artikel 134
 
 (1) Union und Gliedstaaten setzen sich in Ergänzung zu persönlicher Verantwortung und privater Initiative dafür ein, dass:
 * a. jede Person an der sozialen Sicherheit teilhat;
@@ -824,23 +896,23 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ## Kapitel 1: Gliedstaaten
 
-### Artikel 122: Umsetzung von Bundesrecht
+### Artikel 135: Umsetzung von Bundesrecht
 
 (1) Die Gliedstaaten setzen das Bundesrecht nach Massgabe von Verfassung und Gesetz um.
 (2) Union und Gliedstaaten können miteinander vereinbaren, dass die Gliedstaaten bei der Umsetzung von Bundesrecht bestimmte Ziele erreichen und zu diesem Zweck Programme ausführen, die die Union finanziell unterstützt.
 (3) Die Union belässt den Kantonen möglichst grosse Gestaltungsfreiheit und trägt den gliedstaatlichen Besonderheiten Rechnung.
 
-### Artikel 123a: Vorrang und Einhaltung des Unionsrecht
+### Artikel 136: Vorrang und Einhaltung des Unionsrecht
 
 (1) Bundesrecht geht entgegenstehendem gliedstaatlichem Recht vor.
 (2) Die Union wacht über die Einhaltung des Unionsrechts durch die Gliedstaaten.
 
-### Artikel 124: Eigenständigkeit der Gliedstaaten
+### Artikel 137: Eigenständigkeit der Gliedstaaten
 
 (1) Die Union wahrt die Eigenständigkeit der Gliedstaaten.
 (2) Er belässt den Gliedstaaten ausreichend eigene Aufgaben und beachtet ihre Organisationsautonomie. Er belässt den Gliedstaaten ausreichende Finanzierungsquellen und trägt dazu bei, dass sie über die notwendigen finanziellen Mittel zur Erfüllung ihrer Aufgaben verfügen.
 
-### Artikel 125: Verträge zwischen Gliedstaaten
+### Artikel 138: Verträge zwischen Gliedstaaten
 
 (1) Die Gliedstaaten können miteinander Verträge schliessen sowie gemeinsame Organisationen und Einrichtungen schaffen. Sie können namentlich Aufgaben von regionalem Interesse gemeinsam wahrnehmen.
 (2) Die Union kann sich im Rahmen seiner Zuständigkeiten beteiligen.
@@ -850,7 +922,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * b. die inhaltlichen Grundzüge der Bestimmungen festlegt.13
 (5)  Die Gliedstaaten beachten das intergliedstaatliche Recht.14
 
-### Artikel 126a: Allgemeinverbindlicherklärung und Beteiligungspflicht
+### Artikel 139: Allgemeinverbindlicherklärung und Beteiligungspflicht
 
 (1) Auf Antrag interessierter Gliedstaaten kann die Union in folgenden Aufgabenbereichen intergliedstaatlichen Verträge allgemein verbindlich erklären oder Gliedstaaten zur Beteiligung an intergliedstaatlichen Verträgen verpflichten:
 * a. Straf- und Massnahmenvollzug;
@@ -863,52 +935,100 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * h. Spitzenmedizin und Spezialkliniken;
 * i.   Institutionen zur Eingliederung und Betreuung von Invaliden.
 
-### Artikel 127: Betritt zur Union
+### Artikel 140: Bildung
+(1) Die Union und Teilstaaten sorgen im Rahmen ihrer Zuständigkeiten für eine hohe Qualität und Durchlässigkeit des Bildungsraums Europa. Sie koordinieren ihre Anstrengungen und stellen ihre Zusammenarbeit durch gemeinsame Organe sicher. Sie setzt sich dafür ein, dass allgemein bildende und berufsbezogene Bildungswege eine gleichtwertige gesellschaftliche Anerkennung finden.
+(2) Für das Schulwesen sind die Teilstaaten zuständig. Die Schüler und Lehrer sind am Schulwesen ausreichend zu beteiligen.
+(3) Sie sorgen für einen ausreichenden, unentgeltlichen Grundschuluntericht, der allen Kindern offensteht. Er ist obligatorisch und untersteht staatlicher Leitung oder Aufsicht.
+(4) Die Gliedstaaten sorgen für eine ausreichende Sonderschulung aller behinderten Kinder und Jugendlichen bis längstens zum vollendeten 20. Altersjahr.
+(5) Die Union erlässt, soweit nicht durch die gemeinsamen Organe selbst harmonisiert, Vorschriften zu:
+1. Schuleintrittalter,
+2. Schulpflicht,
+3. Dauer und Ziele der Bildungsstufen sowie deren Übergänge,
+4. Annerkennung von Abschlüssen,
+5. Beginn des Schuljahres.
+Die Teilstaaten sind ausreichend und besonders bei solchen Vorschriften zu beteiligen und zu berücksichtigen.
+(6) Die Union erlässt Vorschriften über die Berufsbildung.
+(7) Sie fördert ein breites und durchlässiges Angebot im Bereich der Berufsbildung.
+(8) Die Union betreibt die Europäischen Hochschulen. Er kann weitere Hochschulen und andere Institutionen des Hochschulbereichs errichten, übernehmen oder betreiben.
+(9) Sie fördert und unterstützt Hochschulen der Teilstaaten.
+(10) Die Union und Teilstaaten organisieren gemeinsame Organe zur Bewältigung der Bildungsaufgaben und derer Koordination.
 
+### Artikel 141: Betritt zur Union
 (1) Das Gesetz sieht ein Verfahren zum Beitritt zur Union vor.
 
-### Artikel 128: Austritt aus der Union
-
+### Artikel 142: Austritt aus der Union
 (1) Das Gesetz sieht ein Verfahren zum Austritt aus der Union vor.
+
+### Artikel 143: Status der Gliedstaaten
+(1) Die Union kann auf Ersuchen der Legislative und der Regierung eines Gliedstaates oder Territoriums den Status eines Teilsstaates in den jeweils anderen verfügen.
+(2) Das Gesetz legt die Bedingungen und Einzelheiten fest.
 
 ## Kapitel 2: Unionsgarantien
 
-### Artikel 129: Verfassungen der Gliedstaaten und Autonomiestatuten
+### Artikel 144: Verfassungen der Gliedstaaten und Autonomiestatuten
 
 (1) Jeder Gliedstaat gibt sich eine demokratische Verfassung, angenommen vom Volk und revidierbar. Sie werden von der Union gewährleistet.
 (2) Jeder Gliedteil der Union hat das recht auf eine demokratisch gewählte Regierung und Volksvertretung. Die Union garantiert diese.
 
-### Artikel 130: Verfassungsmässige Ordnung
+### Artikel 145: Verfassungsmässige Ordnung
 
 (1) Die Union schützt die verfassungsmässige sowie den Bestand und das Gebiet sowie die Ordnung der Gliedstaaten.
 (2) Änderungen im Bestand der Gliedstaaten bedürfen der Zustimmung der betroffenen Bevölkerung, der betroffenen Gliedstaaten sowie von Volk und Gliedstaaten. 
-Regionen mit Bestreben zur Abspaltung oder Vereinigung mit einem Gliedstaat haben das Recht auf Anhörung.
+Regionen mit Bestreben zur Abspaltung oder Vereinigung mit einem Gliedstaat haben das Recht auf Anhörung durch die Organe der Union.
 (3) Gebietsveränderungen zwischen den Gliedstaaten bedürfen der Zustimmungen der betroffenen Bevölkerung und der betroffenen Gliedstaaten sowie des Parlaments.
 (4) Grenzbereinigungen können Gliedstaaten mittels Vertrag unter sich vornehmen.  
 
 ## Kapitel 3: Allgemeine Bestimmungen
 
-### Artikel 132: Politische Rechte
+### Artikel 146: Politische Rechte
 
 (1) Die politischen Rechte sind gewährleistet.
 (2) Die Garantie der politischen Rechte schützt die freie Willensbildung und die unverfälschte Stimmabgabe.
 
-### Artikel 132a: Verwirklichung der Grundrechte
+### Artikel 147: Verwirklichung der Grundrechte
 
 (1) Die Grundrechte müssen in der ganzen Rechtsordnung, staatlich wie Privat zur Geltung kommen.
 (2) Einschränkungen müssen verhältnismässig und befristet sein. Der Kerngehalt ist unantastbar
 
-### Artikel 134: Sicherheit und Landesverteidigung
+### Artikel 148: Förderungen
+(1) Die Union kann folgende Bereiche speziell fördern:
+* Musikalische Bildung,
+* Sport,
+* Weiterbildung,
+* Forschung.
+(2) Die Union ist verpflichtet, den besonderen Förderungs- und Schutzbedürfnissen von Kindern, Jugendlichen und Senioren Rechnung zu tragen.
+Sie fördert ausserschulische Arbeit mit Kindern und Senioren.
 
+### Artikel 149: Sicherheit und Landesverteidigung
 (1) Union und Gliedstaaten sorgen im Rahmen ihrer Zuständigkeiten für die Sicherheit des Landes und den Schutz der Bevölkerung. Sie koordinieren ihre Anstrengungen im Bereich der inneren Sicherheit.
 
-### Artikel 134a: Streitkräfte
+### Artikel 150: Streitkräfte
 
-(1) Die europäische Union hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert.
+(1) Die europäische Union hat eine Armee. Diese ist grundsätzlich nach dem Milizprinzip organisiert. Sie hat folgende Teilstreitkräfte:
+1. Marine,
+2. Heer,
+3. Luftstreitkräfte,
+4. Nationalgarden,
+5. Weltraumstreitkräfte,
+6. Küstenwache.
 (2) Die Armee dient der Kriegsverhinderung und trägt zur Erhaltung des Friedens bei. Sie unterstützt die zivilen Behörden bei der Abwehr schwerwiegender Bedrohungen der Inneren Sicherheit und bei der Bewältigung anderer ausserordentlicher Lagen. Das Gesetz kann weitere Aufgaben vorsehen.
-(3) Jeder Europäer, jede Europäerin ist verpflichtet Militärdienst zu leisten. Das Gesetz sieht einen zivilen Ersatzdienst vor. Das Gesetz regelt die Einzelheiten.
+(3) Jeder Europäer, jede Europäerin ist verpflichtet Militärdienst zu leisten. Das Gesetz sieht einen zivilen Ersatzdienst vor und regelt die Einzelheiten.
+(4) Die Militärgesetzgebung sowie Organisation, Ausbildung und Ausrüstung der Armee sind Sachen der Union. Das Gesetz kann für die Nationalgarden Ausnahmen vorsehen.
 
-### Artikel 136: Öffentliche Werke und Verkehr
+### Artikel 151: Nationalgarde
+
+(1) Die Streitkräfte der Union umfasst unter anderem die Nationalgarden. Sie unterstehen dem Oberbefehl der Regierung des Teilstaats oder Territoriums. 
+(2) Die Organisation, Ausbildung und Ausrüstung der Nationalgarden ist Sache des jeweiligen Teilstaates. Die Union kann Standards vorschreiben.
+(3) Die Union kann unter folgenden Umständen Nationalgarden föderalisieren:
+* Freiwilliger föderaler Dienst durch Zustimmung der Teilstaatsregierung und des Soldaten,
+* Im Falle eines nationalen Notfalls oder Katastrophe zur Hilfe und Koordination,
+* Unterstützung der Teilstaatsregierung bei Aufständen, Revolten oder anderen Bedrohungen auf die Verfassungsmässige Ordnung auf Anfrage der Regierung oder Legislative des Teilstaats,
+* Wiederherstellung und Aufrechterhaltung der verfassungsmässigen Ordnung und Vollstreckung von Unionsrecht,
+* Niederschlagung von gewalttätigen Aufständen, Revolten und anderer Verschwörungen gegen die verfassungsmässige Ordnung.
+Das Gesetz kann weitere Zuständigkeiten vorsehen. Es untersteht dem obligatorischen Referendum.
+
+
+### Artikel 152: Öffentliche Werke und Verkehr
 
 (1) Die Union kann im Interesse des ganzen oder eines grossen Teils des Landes öffentliche Werke errichten und betreiben oder Ihre Errichtung unterstützen. Dazu gehören;
 * a. Öffentlicher Verkehr;
@@ -916,27 +1036,58 @@ Regionen mit Bestreben zur Abspaltung oder Vereinigung mit einem Gliedstaat habe
 * c. Strasseninfrastruktur.
 (2) Die Union übt die Oberaufsicht über die Strassen von gesamteuropäischer Bedeutung aus. Union und Gliedstaaten sorgen für eine ausreichende Strassen- ÖV-Infrastruktur.
 
-### Artikel 137: Kulturförderung
+### Artikel 153: Kulturförderung
 
 (1) Die Union kann die europäische Film-, Radio- und Videospielproduktion und Gliedstaatliche Kulturen fördern.
 (2) Sie kann Vorschriften zur Förderung der Vielfalt und der Qualität des Angebots erlassen.
+(3) Sie kann Bestrebungen und Projekte von gesamteuropäischem Interesse unterstützen und fördern.
 
-## Kapitel 4: Initiative und Referendum
+## Kapitel 4: Initiative, Referendum und Bürgerinitiativen
 
-### Artikel 138: Volksinitiative auf Totalrevision der Unionsverfassung
+### Artikel 154: Volksinitiative auf Totalrevision der Unionsverfassung
 
-(1) 200'000 Stimmberechtigte können innert 18 Monaten seit der amtlichen Veröffentlichung ihrer Initiative eine Totalrevision der Unionsverfassung vorschlagen.
+(1) 1'000'000 Stimmberechtigte können innert 18 Monaten seit der amtlichen Veröffentlichung ihrer Initiative eine Totalrevision der Unionsverfassung vorschlagen.
 (2) Dieses Begehren ist dem Volk zur Abstimmung zu unterbreiten.
+(3) Die Unterzeichnenden Stimmberechtigten müssen aus mindestens 1/4 der Gliedstaaten kommen. Als unterzeichnender Gliedstaat gilt ein solcher, in dem eine bestimmte Anzahl Stimmberechtigten die Initiative unterschreibt.
+(4) Die Anzahl aus Art. 154 Absatz 3 errechnet sich aus den Anzahl Sitzen im Nationalrat des jeweiligen Gliedstaats multipliziert mit der verfassungsmässigen Anzahl des Gesamtrates.
 
-### Artikel 139: Volksinitiative auf Teilrevision der Unionsverfassung
+### Artikel 155: Volksinitiative auf Teilrevision der Unionsverfassung
 
-(1) 200'000 Stimmberechtigte können innert 18 Monaten seit der amtlichen Veröffentlichung ihrer Initiative eine Teilrevision der Unionsverfassung verlangen. Das Gesetz sieht die Einzelheiten vor.
+(1) 800'000 Stimmberechtigte können innert 18 Monaten seit der amtlichen Veröffentlichung ihrer Initiative eine Teilrevision der Unionsverfassung verlangen. Das Gesetz sieht die Einzelheiten vor.
+(2) Es gelten die Bestimmungen aus Art. 152 Absatz 2, Absatz 3 und Absatz 4.
 
-### Artikel 139a: Volksinitiativen zu Bundesgesetzen
+### Artikel 156: Volksinitiativen zu Bundesgesetzen
 
-(1) Das Volk und die Gliedstaaten können, den Bestimmungen zu Volksinitiativen der Unionsverfassung folgend, Initiativen zu Bundesgesetzen einreichen. Zum Zustandekommen werden 100'000 gültige Unterschriften benötigt. Das Gesetz sieht die Einzelheiten vor.
-(2) Initiativen zu Bundesgesetzen können revisionistischer, additiver oder abrogativer Natur sein.  
-### Artikel 141: Obligatorisches Referendum
+(1) Das Volk und die Gliedstaaten können, den Bestimmungen zu Volksinitiativen der Unionsverfassung folgend, Initiativen zu Bundesgesetzen einreichen. Zum Zustandekommen werden 800'000 gültige Unterschriften von Stimmberechtigten benötigt. Die Frist beträgt 18 Monate. Das Gesetz sieht die Einzelheiten vor.
+(2) Initiativen zu Bundesgesetzen können ändernder, aufhebender, additiver Natur sein. Es kann auch ein neues Gesetz erlassen werden.
+(3) Die Einheit der Materie ist zu wahren. Die Durchführung der Initiative muss möglich sein.
+(4) Es gelten die Bestimmungen aus Art. 152 Absatz 2, Absatz 3 und Absatz 4.
+(5) Die beiden Räte werden nicht neugewählt, sollte eine solche Volksinitiative über ein Bundesgesetz zustande kommen.
+
+### Artikel 157: Volksbeschluss
+
+(1) Das Volk und die Gliedstaaten können mittels 800'000 gültigen Unterschriften von Stimmberechtigten innert 18 Monaten einen Erlass eines Beschlusses der Bundesversammlung verlangen.
+(2) Es gelten die Bestimmungen aus Art. 152 Absatz 2, Absatz 3 und Absatz 4.
+(3) Ausgenommen sind Beschlusse folgender Natur:
+* Beschlüsse über die Zulässigkeit von Volksinitiativen, Referenden, Volksbeschlüssen und Volksmotionen,
+* Beschlüsse über Volksmotionen,
+* Beschlüsse über Politische Planung,
+* Beschlüsse über die Steuerung von Leistungen und Bundesfinanzen,
+* Beschlüsse über Wahlen gemäss der Wahlkompetenz der Bundesversammlung,
+* Beschlüsse über die Aufsicht über Behörden und Organe,
+* Beschlüsse über die Erteilung von Amnestie,
+* Beschlüsse über Beschwerden und Petitionen,
+* Beschlüsse über Kompetenzkonflikte,
+* Beschlüsse über Vernehmlassungen durch Gliedstaaten an die Bundesbehörden.
+(4) Das Gesetz kann weitere Ausnahmen vorsehen, sofern ein undemokratischer Interessenskonflikt vorliegen könnte.
+
+### Artikel 158: Volksmotion
+(1) Das Volk und die Gliedstaaten können mittels 300'000 gültigen Unterschriften von Stimmberechtigten innert 9 Monaten der Bundesversammlung einen schriftlichen Antrag stellen.
+Der Antrag kann sich auf Themen der politischen Planung, Gesetzgebung oder andere Angelegenheiten beziehen, die die Bundesversammlung an die europäische Kommission weitergeben kann.
+(2) Die Bundesversammlung muss die Volksmotion behandeln und wenn sie als gerechtfertig beurteilt, die europäische Kommission mit der Ausführung beauftragen.
+(3) Es gelten die Bestimmungen aus Art. 152 Absatz 2, Absatz 3 und Absatz 4.
+
+### Artikel 159: Obligatorisches Referendum
 
 (1) Volk und Gliedstaaten werden zur Abstimmung unterbreitet:
 * a. die Änderungen der Unionsverfassung;
@@ -947,33 +1098,43 @@ Regionen mit Bestreben zur Abspaltung oder Vereinigung mit einem Gliedstaat habe
 * b. die Volksinitiativen auf Teilrevision der Unionsverfassung in der Form der allgemeinen Anregung, die von der Bundesversammlung abgelehnt worden sind;
 * c. die Frage, ob eine Totalrevision der Unionsverfassung durchzuführen ist, bei Uneinigkeit der beiden Räte.
 
-### Artikel 142: Fakultatives Referendum
+### Artikel 160: Fakultatives Referendum
 
 (1) Verlangen es 300’000 Stimmberechtigte oder 18 Kantone innerhalb von 100 Tagen seit der amtlichen Veröffentlichung des Erlasses, so werden dem Volk zur Abstimmung vorgelegt. Das Gesetz sieht die Einzelheiten vor.
-
 
 # Titel 5: Revision der Unionsverfassung
 
 ## Kapitel 1: Revision der Unionsverfassung
 
-### Artikel 145: Grundsatz
+### Artikel 161: Grundsatz
 
 (1) Die Unionsverfassung kann jederzeit ganz oder teilweise revidiert werden.
 (2) Wo die Bundesverfassung und die auf ihr beruhende Gesetzgebung nichts anderes bestimmen, erfolgt die Revision auf dem Weg der Gesetzgebung.
 
-### Artikel 146: Totalrevision
+### Artikel 162: Totalrevision
 
 (1) Eine Totalrevision der Unionsverfassung kann vom Volk oder von einem der beiden Räte vorgeschlagen oder von der Bundesversammlung beschlossen werden.
 (2) Geht die Initiative vom Volk aus oder sind sich die beiden Räte uneinig, so entscheidet das Volk über die Durchführung der Totalrevision.
 (3) Stimmt das Volk der Totalrevision zu, so werden die beiden Räte erneut gewählt.
 (4) Die zwingenden Bestimmungen des Völkerrechts dürfen nicht verletzt werden.
 
-### Artikel 147: Teilrevision
+### Artikel 163: Teilrevision
 
 (1) Eine Teilrevision der Unionsverfassung kann vom Volk verlangt oder von der Bundesversammlung beschlossen werden.
 (2) Eine Teilrevision muss die Einheit der Materie wahren und darf die zwingenden Bestimmungen des Völkerrechts nicht verletzen.
 (3) Die Volksinitiative auf Teilrevision muss zudem die Einheit der Form wahren.
 
-### Artikel 148: Inkrafttreten
+### Artikel 164: Inkrafttreten
 
-(1) Die ganz oder teilweise revidierte Unionsverfassung tritt in Kraft, wenn sie von Volk und Gliedstaaten angenommen ist.*
+(1) Die ganz oder teilweise revidierte Unionsverfassung tritt in Kraft, wenn sie von Volk und Gliedstaaten angenommen ist.
+
+# Titel 6: Übergangs- und Schlussbestimmungen
+
+## Kapitel 1: Übergangsbestimmungen
+
+## Kapitel 2: Schlussbestimmungen
+
+### Artikel 165: Bezeichnungen
+(1) Die Begriffe Bund, Union und die Vereinigten Staaten von Europa sind einander gleichzusetzen.
+(2) Der Begriff Gliedstaat ist dem Begriff Teilstaat gleichzusetzen.
+(3) Der Begriff Gliedstaat bezeichnet auch die europäischen Territorien, soweit nichts gegensätzliches festgelegt ist.

@@ -36,7 +36,12 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 ## Artikel 4: Gliedstaaten
 
 (1) Die Staaten der Union sind souverän, soweit ihre Souveränität nicht durch die Bundesverfassung beschränkt sind; sie üben alle Rechte aus, die nicht dem Bund übertragen sind.
-(2) Der Bund handelt mit den individuellen Territorien ihren Autonomiestatus und die damit verbundene Souveränität im Rahmen eines Autonomiestatuts aus. Alle Rechte und Pflichten, die nicht spezifisch dem Territorium übertragen sind, werden vom Bund ausgeübt.
+(2) Die Union hat zwei Arten von Teilstaaten:
+1. reguläre Gliedstaaten,
+2. europäische Territorien.
+Europäische Territorien sind Gliedstaaten, die aufgrund ihrer geschichtlichen oder kulturellen Vergangenheit und Gegenwart besondere Autonomie innerhalb der Union rechtfertigen.
+(2) Der Bund handelt mit den individuellen Territorien ihren Autonomiestatus und die damit verbundene Souveränität im Rahmen eines Autonomiestatuts aus. Das Autonomiestatus muss die Grundrechte, Demokratie und Gewaltenteilung gewährleisten.
+Es kann festlegen, wer die Aufgaben, Rechte und Pflichte wahrnimmt, die nicht fest niedergeschrieben sind innerhalb des Statuts.
 
 ## Artikel 5: Amtssprachen
 
@@ -46,14 +51,13 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 ## Artikel 6: Grundfreiheiten und Nichtdiskriminierung
 
 (1) Die Union gewährleistet Personen-, Dienstleistungs-, Waren- und Kapitalverkehr sowie die Niederlassungsfreiheit im Rahmen der Verfassung.
-(2) Die Diskriminierung aufgrund von Sprache, Ethnie, Religion, Geschlecht und Gliedstaatsangehörigkeit ist verboten.
+(2) Die Diskriminierung aufgrund von Sprache, Ethnie, Religion, Geschlecht, Nationalität oder sexueller Orientierung und Gliedstaatsangehörigkeit ist verboten.
 
 ## Artikel 7: Beziehungen zwischen Union und Teilstaaten
 
 (1) Die Union achtet die Gleichheit der Teilstaaten und die der Teilterritorien, im Rahmen derer Autonomiestatuten, vor der Verfassung sowie die nationale und regionale Identität der Mitgliedstaaten und Territorien.
 (2) Die Union und Teilstaaten achten und unterstützen sich nach dem Grundsatz der loyalen Zusammenarbeit gegenseitig bei der Erfüllung der Aufgaben, welche aus der Verfassung hervorgehen. Die Teilstaaten ergreifen alle geeigneten Massnahmen zur Erfüllung dieser Verpflichtungen. Die Teilstaaten unterstützen die Union bei der Erfüllung ihrer Aufgabe und unterlassen alle Massnahmen, welche die Verwirklichung der Ziele der Union gefährden könnten.
-
-(1) Die Verfassung und das von den Organen der Union festgelegte Recht im Rahmen der Ausübung der übertragenen Zuständigkeiten haben Vorrang vor dem Recht der Teilstaaten und dem der Territorien.
+(4) Die Verfassung und das von den Organen der Union festgelegte Recht im Rahmen der Ausübung der übertragenen Zuständigkeiten haben Vorrang vor dem Recht der Teilstaaten und dem der Territorien.
 
 ## Artikel 8: Symbole der Union
 
@@ -442,16 +446,16 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ### Artikel 59: Amtsenthebungsverfahren
 
-(1) Die Bundesversammlung hat das Recht, mithilfe einer 2/3-Mehrheit beider Kammern des europäischen Parlaments, einen Kommissar, Richter, ein Kabinettsmitglied oder Abgeordneter ihres Amtes zu entheben.
+(1) Die Bundesversammlung hat das Recht, mithilfe einer 2/3-Mehrheit beider Kammern des europäischen Parlaments, einen Kommissar, Richter, ein Kabinettsmitglied oder Abgeordneten ihres Amtes zu entheben.
 (2) Dieses Recht kommt nur Zustande, wenn das Mitglied entweder aus gesundheitlichen Gründen für unfähig befunden oder aufgrund von Verstössen gegen die Verfassung oder Verbrechen gegen Bundesgesetze durch den Staatsrat für schuldig befunden wird.
 (3) Das Gesetz definiert einen konkreten Vorgang, der in einem solchen Falle zu befolgen ist.
+(4) Reguläre Beamten und Positionen, die nicht durch Wahl erfolgen sind davon ausgenommen.
 
 ### Artikel 60: Inkrafttreten und Veröffentlichung
 
 (1) Europäische Gesetze und Verordnungen werden vom Präsidenten der europäischen Kommission sowie dem Präsidenten der Vereinigten Staaten von Europa unterzeichnet, damit sie in Kraft treten können.
 (2) Die europäischen Gesetze und Verordnungen werden im Amtsblatt der Europäischen Union veröffentlicht und treten zu dem durch sie festgelegten Zeitpunkt oder anderenfalls am zwanzigsten Tag nach ihrer Veröffentlichung in Kraft.
 
-  
 
 ## Kapitel 5: Europäische Kommission
 
@@ -693,6 +697,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 (1) Jeder Mensch hat das Recht auf Leben. Die Todesstrafe ist verboten.
 (2) Jeder Mensch hat das Recht auf persönliche Freiheit, insbesondere auf körperliche und geistige Unversehrtheit und auf Bewegungsfreiheit.
 (3) Folter und jede andere Art grausamer, unmenschlicher oder erniedrigender Behandlung oder Bestrafung sind verboten.
+(4) Personen mit der Möglichkeit Kinder zu gebären besitzen das Recht auf Abtreibung. Das Gesetz legt den Rahmen und die Einschränkungen fest, darf es aber nicht unmöglich machen.
 
 ### Artikel 101: Verbot der Verhüllung des eigenen Gesichts
 
@@ -738,7 +743,12 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 (1) Die Freiheit von Presse, Radio und Fernsehen sowie anderer Formen der öffentlichen fernmeldetechnischen Verbreitung von Darbietungen und Informationen ist gewährleistet.
 (2) Zensur ist verboten.
-(3)  Das Redaktionsgeheimnis ist gewährleistet.
+(3) Das Redaktionsgeheimnis ist gewährleistet.
+
+### Artikel 110: Bücherfreiheit
+(1) Das Verbieten von Büchern ist verfassungswidrig. Solche, die gegen die verfassungsmässige Ordnung verstossen oder zu einem Verstoss aufrufen sowie andere schwere Verbrechen
+sind entsprechend in Kontext zu setzen und dahingegend zu modifizieren. 
+(2) Der Kerninhalt muss erhalten bleiben.    
 
 ### Artikel 110: Sprachenfreiheit
 

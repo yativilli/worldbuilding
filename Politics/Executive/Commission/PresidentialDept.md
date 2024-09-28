@@ -1,5 +1,5 @@
 # Europäisches Department des Kommissionspräsidenten
-Das europäische Department des Kommissionspräsidenten ist zuständig für die Regierungsangelegenheiten, die mit der Organisation selbst zu tun haben und sich nicht in einem anderen Department befinden. 
+Das europäische Department des Kommissionspräsidenten ist zuständig für die Regierungsangelegenheiten, die mit der Organisation selbst zu tun haben und sich nicht in einem anderen Department befinden.   
 
 ## Abteilungen
 * Büro des Generalstabschefs

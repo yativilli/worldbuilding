@@ -15,7 +15,7 @@
 
 ## §3 Referendumsanforderungen
 (1) Das Referendum über die Abspaltung muss unter internationaler Beobachtung und nach den Standards der vereinigten Staaten von Europa durchgeführt werden.  
-(2) Eine Zweidrittelmehrheit der wahlberechtigten Bürger ist erforderlich, um das Referendum gültig zu machen.  
+(2) Eine absolute Mehrheit der wahlberechtigten Bürger ist erforderlich, um das Referendum gültig zu machen.  
 (3) Der Teilstaat muss sicherstellen, dass die Bürger vollständig über die Konsequenzen einer Abspaltung informiert werden, einschließlich wirtschaftlicher, sozialer und politischer Auswirkungen.  
 
 ## §4 Verhandlungen über die Abspaltung
@@ -64,4 +64,4 @@ Präsident der europäischen Kommission der Vereinigten Staaten von Europa
 
 
 _________________________________  
-Präsident der Europäischen der Vereinigten Staaten von Europa  
+Präsident der Vereinigten Staaten von Europa  

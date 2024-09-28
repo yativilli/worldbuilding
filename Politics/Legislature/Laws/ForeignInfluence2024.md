@@ -60,7 +60,7 @@ _Elemente der Infrastruktur, deren Verlust oder Zerstörung in einer massiven Ka
 (2) Die Union stärkt ihre Rolle in der UN insbesondere durch die Förderung von Friedenssicherung und humanitärer Hilfe, sowie die Unterstützung der UN-Missionen und -Programme.  
 
 ## §6 Geheimdienstliche Tätigkeiten und Militärbasen
-(1) Die Union stellt sicher, das alle geheimdienstlichen Tätigkeiten auf europäischem Boden durch ausländische Geheimdienste auf ein minimum reduziert wird.   
+(1) Die Union stellt sicher, das alle geheimdienstlichen Tätigkeiten auf europäischem Boden durch ausländische Geheimdienste auf ein Minimum reduziert wird.   
 (2) Sie beauftragt ein geeignetes Gremium mit der Überwachung der Tätigkeiten ausländischer Geheimdienste.   
 (3) Ausländische Geheimdienste sind der Union Rechenschaftspflichtig, sofern sie:  
 1. auf europäischem Boden operieren;

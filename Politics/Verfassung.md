@@ -200,7 +200,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 (1) Die europäische Kommission ist die europäische Unionsregierung und wird von der Vereinigten Bundesversammlung nach jeder Gesamterneuerungswahl des Nationalrates neu gewählt.  
 (2) Die europäische Kommission ist die oberste leitende und vollziehende Behörde des Bundes.  
-(3) Die europäische Kommission besteht aus elf Mitgliedern. Der Kommissionspräsident kann weitere Mitglieder in seinem Kabinett ernennen.   
+(3) Die europäische Kommission besteht aus elf gewählten Mitgliedern. Der Kommissionspräsident kann weitere Mitglieder in seinem Kabinett ernennen. Nicht gewählte Kabinettsmitglieder sind nicht stimmberechtigt.   
 (4) Die Mitglieder der europäischen Kommission werden aus allen europäischen Bürgern und Bürgerinnen für eine Amtsdauer von 4 Jahren gewählt.  
 (5) Die Vereinigte Bundesversammlung wählt den Präsidenten und die Vizepräsidenten sowie die Mitglieder der Kommission. Sie bestätigt die restlichen Kabinettsmitglieder.  
 (6) Dabei ist darauf Rücksicht zu nehmen, dass die Landesgegenden und Sprachregionen angemessen vertreten sind.  
@@ -422,7 +422,8 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ### Artikel 56: Aufträge an die europäische Kommission
 
-(1) Die Bundesversammlung kann der europäischen Kommission Aufträge erteilen. Das Gesetz regelt die Einzelheiten, insbesondere die Instrumente, mit welchem die Bundesversammlung auf den Zuständigkeitsbereich der europäischen Kommission einwirken kann.  
+(1) Die Bundesversammlung kann der europäischen Kommission Aufträge erteilen. Das Gesetz regelt die Einzelheiten, insbesondere die Instrumente, mit welchem die Bundesversammlung auf den Zuständigkeitsbereich der europäischen Kommission einwirken kann.   
+(2) Der Präsident der Union hat das Recht auf Teilnahme an Sitzungen der Unionsregierung. Er ist Vorsitzender des europäischen Sicherheitsrates und teil jeglicher anderer beratenden Einrichtungen der Regierung.  
 
 ### Artikel 57: Beziehungen zwischen Union und Teilstaaten
 

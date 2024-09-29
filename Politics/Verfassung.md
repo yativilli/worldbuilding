@@ -1,4 +1,7 @@
 # Verfassung der vereinigten Staaten von Europa
+_______________________________________________________________
+vom 29.09.2024.  
+_Die Staaten der Europäischen Union_, beschliessen im Interesse der Allgemeinheit, die folgende Verfassung:
 
 # Präambel
 

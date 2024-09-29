@@ -1,10 +1,12 @@
 # SECESSION ACT OF 2024
+_______________________________________________________________
+vom 29.09.2024.  
+_Die Bundesversammlung der vereinigten Staaten von Europa_, gestützt auf **Art. 142 der Verfassung der vereinigten Staaten von Europa** beschliesst:
 
 ## §1 Zweck des Gesetzes
 (1) Dieses Gesetz regelt das Verfahren für die friedliche und geordnete Abspaltung eines Teilstaates von den vereinigten Staaten von Europa.  
-(2) Dieses Gesetz stützt sich auf **Art. 142 der Verfassung der vereinigten Staaten von Europa**.  
-(3) Das Gesetz wird als **Gesetz über den Austritt aus den vereinigten Staaten von Europa** oder **Secession Act of 2024** bezeichnet.  
-(4) Ziel ist es, sicherzustellen, dass die Abspaltung im Einklang mit den demokratischen Prinzipien, der Rechtsstaatlichkeit und den in der Verfassung verankerten Werten erfolgt.  
+(2) Das Gesetz wird als **Gesetz über den Austritt aus den vereinigten Staaten von Europa** oder **Secession Act of 2024** bezeichnet.  
+(3) Ziel ist es, sicherzustellen, dass die Abspaltung im Einklang mit den demokratischen Prinzipien, der Rechtsstaatlichkeit und den in der Verfassung verankerten Werten erfolgt.  
 
 ## §2 Grundlegende Voraussetzungen für eine Abspaltung
 (1) Ein Teilstaat kann ein Abspaltungsverfahren nur dann einleiten, wenn:  

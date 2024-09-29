@@ -1,10 +1,12 @@
 # ACCESSION ACT OF 2024
+_______________________________________________________________
+vom 29.09.2024.  
+_Die Bundesversammlung der vereinigten Staaten von Europa_, gestützt auf **Art. 141 der Verfassung der vereinigten Staaten von Europa** beschliesst:
 
 ## §1 Zweck und Geltungsbereich
 (1) Dieses Gesetz regelt den Beitritt und die Integration interessierter Staaten, die den vereinigten Staaten von Europa beitreten.  
-(2) Dieses Gesetz stützt sich auf **Art. 141 der Verfassung der vereinigten Staaten von Europa**.  
-(3) Das Gesetz wird als **Gesetz über den Beitritt und die Integration in die vereinigten Staaten von Europa** oder **Accession Act of 2024** bezeichnet.  
-(4) Der Beitrittsprozess soll die politische, wirtschaftliche und rechtliche Integration neuer Gliedstaaten und Territorien fördern, während deren Souveränität und kulturelle Identität respektiert wird.  
+(2) Das Gesetz wird als **Gesetz über den Beitritt und die Integration in die vereinigten Staaten von Europa** oder **Accession Act of 2024** bezeichnet.  
+(3) Der Beitrittsprozess soll die politische, wirtschaftliche und rechtliche Integration neuer Gliedstaaten und Territorien fördern, während deren Souveränität und kulturelle Identität respektiert wird.  
 
 ## §2 Beitrittsvoraussetzungen
 (1) Jeder Staat, welcher beabsichtigt, der Union beizutreten, muss die folgenden Voraussetzungen erfullen:  

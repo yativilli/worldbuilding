@@ -1,11 +1,14 @@
 # UNIFICATION ACT OF 2024
+_______________________________________________________________
+vom 29.09.2024.  
+_Die Bundesversammlung der vereinigten Staaten von Europa_, gestützt auf **Art. 165 der Verfassung der vereinigten Staaten von Europa** beschliesst:
+
 
 ## §1 Zweck und Geltungsbereich
 (1) Dieses Gesetz regelt die Einrichtung der Vereinigten Staaten von Europa und deren Vereinigung. Es regelt den rechtlichen und die organisatorischen Rahmenbedingen für den Prozess der Vereinigung der Gliedstaaten zu einem föderalen Bundesstaat.  
 (2) Durch dieses Gesetz werden die vereinigten Staaten von Europa gegründet. Die Gründung ist vollzogen, wenn alle verfassungsmässigen Institutionen ihre Funktionen vollständig übernommen haben. Während der Übergangszeit regelt dieses Gesetz die rechtlichen Umstände.  
 (3) Das Gesetz wird als **Gesetz über die Vereinigung der Vereinigten Staaten von Europa** oder als **Unification Act of 2024** bezeichnet.  
-(4) Dieses Gesetz stützt sich auf **Art. 165 der Verfassung der vereinigten Staaten von Europa** .  
-(5) Dieses Gesetz gilt für:   
+(4) Dieses Gesetz gilt für:   
 - die Republik Albanien, 
 - das Fürstentum Andorra, 
 - die Republik Belarus, 
@@ -64,6 +67,75 @@ sowie alle Gebiete und Territorien der gennanten Staaten.
 (1) Zur Koordinierung des Vereinigungsprozesses leiten die bisherigen Organe der Europäischen Union die Regierungsgeschäfte und Abläufe geschäftsführend. Sie beginnt mit der vorbereitung der Parlamentswahlen und Präsidentschaftswahlen und beginnt die Übergabe der Befugnisse der Nationalstaaten an die Unionsregierung.  
 (2) Sie stellt sicher, das bestehende EU-Gesetze und Verordnungen weiterhin in Kraft bleiben und eingehalten werden bis zum Ende der Übergangszeit.  
 (3) Die ausgearbeitete Verfassung unterliegt dem Referendum. Die Annahme erfordert das Volks- und Ständemehr.  
+
+## §4 Gebietsveränderungen
+(1) Jeder Vertragsstaat bleibt in seinen Grenzen so wie bisher international annerkant, sowie dieses Gesetz nichts anderes vorsieht.  
+Die Union und deren Gliedstaaten wie auch alle Vertragsstaaten akzeptieren hiermit die territoriale Integrität aller anderen Vertragsstaaten und der Union. Sie geben mit der Unterzeichnung jegliche Gebietsansprüche an Drittstaaten auf, solange diese nicht durch durch völkerrechtswidrige Tätigkeiten und Absichten entstanden sind.  
+(2) Folgende Gebietsänderungen treten nach Inkrafttretung dieses Gesetzes in Kraft:
+-  das Vereinigte Königreich von Grossbritannien und Nordirland akzeptiert folgende Gebietsänderungen:
+   1. der Staat Schottland erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.
+   2. der Staat Nordirland erhält die volle Unabhängigkeit vom Mutterland und wird mit der Republik Irland wiedervereinigt.
+   3. das Überseegebiet Gibraltar erhält die volle Unabhängigkeit vom Mutterland und wird mit dem Königreich Spanien wiedervereint.
+   4. das Überseegebiet Anguilla erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   5. das Überseegebiet Bermuda erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   6. das Überseegebiet britische Jungferninseln erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   7. das Überseegebiet Falklandinseln erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   8. das Überseegebiet Cayman erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   9. das Überseegebiet Montserrat erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   10. das Überseegebiet Pitcairn erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   11. das Überseegebiet St. Helena, Ascension und Tristan da Cunha erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   12. das Überseegebiet Südgeorgien erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+   13. das Überseegebiet Turks- und Caicosinseln erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+- die Republik Finnland akzeptiert die folgende Gebietsänderung:
+    1. die Autonome Region Aaland erhält die volle Unabhängigkeit vom Mutterland und wird mit dem Königreich Schweden wiedervereint.
+- die Russische Föderation:
+    1. der Oblast Königsberg wird der Russischen Föderation aberkannt und erhält als gleichwertiger und vollständig vom Mutterland unabhängiger Staat den Status eines Gliedstaats der vereinigten Staaten von Europa. 
+    2. die Republik Krim wird der Russischen Föderation aberkannt und erhält als gleichwertiger und vollständig vom Mutterland unabhängiger Staat den Status eines Gliedstaats der vereinigten Staaten von Europa. 
+- die Republik Bosnien-Herzegowina:
+    1. die Föderation Bosnien Herzegowina wird als gleichwertiger und vollständig vom Mutterland unabhängiger Staat mit der Republik Kroatien vereinigt.
+    2. die Republik Srpska wird als gleichwertiger und vollständig vom Mutterland unabhängiger Staat mit der Republik Serbien vereinigt.
+- die Republik Serbien:
+    1. die Republik Serbien aktzeptiert die vollumfängliche Unabhängigkeit der Republik Kosovo von der Republik Serbien und legt jegliche Streitigkeiten und militärische Massnahmen bei.
+- das Fürstentum Liechtenstein:
+    1. das Fürstentum Liechtenstein wird vollumfänglich als vollwertiger Kanton in die Schweizer Eidgenossenschaft eingegliedert.
+- das Königreich Spanien:
+    1. die Autonome Gemeinschaft des Baskenland erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.
+    2. die Autonome Gemeinschaft Katalonien erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.
+    3. die Autonome Stadt Ceuta erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    4. die Autonome Stadt Melilla erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+- das Fürstentum Andorra:
+    1. das Fürstentum Andorra wird vollumfänglich als vollwertiger Provinz in die Autonome Gemeinschaft Katalonien eingegliedert.
+- die Republik San Marino:
+    1. die Republik San Marino wird vollumfänglich als autonome Region in die Italienische Republik eingegliedert.
+- der Staat Vatikanstadt:
+    1. der Staat Vatikanstadt wird vollumfänglich in die italinische Republik eingegliedert.
+- die Republik Italien:
+    1. die Autonome Region Sardinien erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa. Sie wird mit der Autonomen Region Korsika vereinigt.
+- das Königreich Dänemark:
+    1. die Autonome Region Grönland erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    2. die Autonomen Inseln der Färöer erhalten die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+- das Königreich Norwegen:
+    1. die Autonome Region Spitzbergen erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+- die französische Republik
+    1. die Autonome Region Korsika erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa. Sie wird mit der Autonomen Region Sardinien vereinigt.
+    2. das Überseegebiet Französisch-Guyana erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    3. das Überseegebiet Guadeloupe erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    4. das Überseegebiet Martinique erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    5. das Überseegebiet Mayotte erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    6. das Überseegebiet Neu-Kaledonien erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    7. das Überseegebiet Réunion erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    8. das Überseegebiet Saint Barthelemy erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    9. das Überseegebiet Saint Martin erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    10. das Überseegebiet St. Pierre et Miquellon erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    11. das Überseegebiet Wallis et Futuna erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+- das Königreich der Niederlande:
+    1. die Überseeregion der Karibischen Niederlande erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    2. das Überseegebiet Aruba erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    3. das Überseegebiet Curaçao erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+    4. das Überseegebiet Sint Marten erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
+
+(3) Jegliche Überseegebiete, die als Resultat kolonialer Ambitionen entstanden sind erhalten auf Unterzeichnung des Gesetzes den Status eines Territoriums.  
+Bis zur Aushandlung des jeweiligen Autonomiestatus unterstehen sie geschäftsführend ihren Mutterländern.   
 
 ## §5 Gesetze
 (1) Alle Gesetze, Verordnungen und sonstige Beschlüsse und Richtlinien der europäischen Union und der Gliedstaaten sind weiter rechtskräftig, infsofern sie nicht der Verfassung wiedersprechen.  

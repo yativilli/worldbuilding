@@ -15,7 +15,7 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 # Titel 1: Die Union und Gliedstaaten
 ## Artikel 1: Die vereinigten Staaten von Europa
 
-(1) Das europäische Volk, sowie die Staaten Norwegen, Schweden, Finnland, Dänemark. Island, Schottland, Irland, Grossbritannien, Estland, Lettland, Litauen, Königsberg, Belarus,   Ukraine, Krim, Polen, Tschechien, Slowakei, Österreich, Ungarn, Rumänien, Slowenien, Kroatien-Bosnien, Serbien, Montenegro, Kosovo, Bulgarien, Mazedonien, Albanien, Griechenland,  Zypern, Malta, Schweiz, Frankreich, Portugal, Spanien, Katalonien, Italien, Korsika-Sardinien, Belgien, Luxembourg, Baskenland, Deutschland und die Niederlande bilden zusammen die   vereinigten Staaten von Europa.  
+(1) Das europäische Volk, sowie die Staaten Norwegen, Schweden, Finnland, Dänemark, Island, Schottland, Irland, Grossbritannien, Estland, Lettland, Litauen, Königsberg, Belarus, Ukraine, Krim, Polen, Tschechien, Slowakei, Österreich, Ungarn, Rumänien, Slowenien, Kroatien-Bosnien, Serbien, Montenegro, Kosovo, Bulgarien, Mazedonien, Albanien, Griechenland,  Zypern, Malta, Schweiz, Frankreich, Portugal, Spanien, Katalonien, Italien, Korsika-Sardinien, Belgien, Luxembourg, Baskenland, Deutschland und die Niederlande bilden zusammen die   vereinigten Staaten von Europa.  
 
 (2) Zusätzlich sind auch die europäischen Territorien Grönland, Färöer, Französisch-Guyana, Guadeloupe, Martinique, Mayotte, Neu-Kaledonien, Réunion, Saint Barthelemy, Saint Martin,   St. Pierre et Miquelon, Wallis et Futuna, die Karibischen Niederlande, Aruba, Curaçao, Sint Marten, Ceuta, Melilla, Spitzbergen, Anguilla, Bermuda, die Jungferninseln,   die Falklandinseln, Cayman, Montserrat, Pitcairn, St. Helena, Ascension, Tristan da Cunha, Südgeorgien sowie die Turks- und Caicosinseln Teil der vereinigten Staaten von Europa.  
 
@@ -390,6 +390,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * g. Die Organisation und das Verfahren der Bundesbehörden.
 (2) Rechtsbefugnisse können durch Bundesgesetz übertragen werden, soweit dies nicht durch die Bundesverfassung ausgeschlossen wird.  
 (3) Gesetze- und Gesetzesänderungen können durch das Parlament dem obligatorischen Referndum unterstellt werden, sofern ein Grund vorliegt, welcher die gesamte Bevölkerung tangiert.  
+(4) Gesetze haben die Einheit der Materie zu wahren.  
 
 
 ### Artikel 50: Gesetzgebung bei Dringlichkeit

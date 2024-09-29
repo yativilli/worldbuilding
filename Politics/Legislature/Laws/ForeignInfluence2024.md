@@ -1,11 +1,13 @@
 # FOREIGN INFLUENCE AND INFRASTRUCTURE ACT OF 2024
+_______________________________________________________________
+vom 29.09.2024.  
+_Die Bundesversammlung der vereinigten Staaten von Europa_, gestützt auf **Art. 13 und Art. 51 der Verfassung der vereinigten Staaten von Europa** beschliesst:
 
 ## §1 Zweck und Geltungsbereich
 (1) Dieses Gesetz regelt die Einflussnahme und Infrastruktur ausländischer Unternehmen und Regierungen auf europäischem Boden.  
-(2) Dieses Gesetz stützt sich auf **Art. 13 & Art. 51 der Verfassung der vereinigten Staaten von Europa**.  
-(3) Das Gesetz wird als **Gesetz über die Einflussnahme und Infrastruktur ausländischer Unternehmen und Regierungen** oder **Foreign Influence and Infrastructure Act of 2024** bezeichnet.  
-(4) Das Gesetz gilt für alle Gliedstaaten und alle Territorien, unabhängig deren Unabhängigkeitsstatuten.   
-(5) Das Gesetz regelt nicht die Einflussnahme und Infrastruktur internationaler Organisationen, ausser sie werden explizit erwähnt.  
+(2) Das Gesetz wird als **Gesetz über die Einflussnahme und Infrastruktur ausländischer Unternehmen und Regierungen** oder **Foreign Influence and Infrastructure Act of 2024** bezeichnet.  
+(3) Das Gesetz gilt für alle Gliedstaaten und alle Territorien, unabhängig deren Unabhängigkeitsstatuten.   
+(4) Das Gesetz regelt nicht die Einflussnahme und Infrastruktur internationaler Organisationen, ausser sie werden explizit erwähnt.  
 
 ## §2 Kritische Infrastruktur
 (1) Kritische Infrastruktur der Union muss zu mindestens 51% in europäischer, domestischer Hand sein. Sie unterliegt strengen Regulationen und bedarf der Übersicht durch die europäische Kommission oder eine von ihr eingesetzte Kommission. Ein spezifisches Gesetz regelt die genauen Regulationen, Bestrafungen und Vorgehensweisen.  

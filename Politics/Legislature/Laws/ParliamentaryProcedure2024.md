@@ -727,7 +727,7 @@ Die übrigen Ratsmitglieder können in das Protokoll Einsicht nehmen. Das Amtsge
 
 # 7. Schlussbestimmungen
 (1) Dieses Gesetz tritt am 01.01.2025 um 00:00:00 in Kraft.  
-
+(2) Es sind bei jeglichen Verwendeten Formen alle Geschlechter gemeint. 
 
 _________________________________  
 Präsident der europäischen Kommission der Vereinigten Staaten von Europa  

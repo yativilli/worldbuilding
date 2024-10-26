@@ -1,6 +1,6 @@
 # Legislative
 Die Legislative der vereinigten Staaten besteht gemäss [Art. XX]() der Verfassung aus der Bundesversammlung der vereinigten Staaten von Europa.  
-Sie schreiben die [Gesetze](worldbuilding/Politics/Legislature/Laws/Gesetze.md).  
+Sie schreiben die [Gesetze](./Laws/Gesetze.md).  
 Dieses Parlament besteht aus den zwei Kammern:   
 - der Nationalrat und
 - der Staatsrat
@@ -37,6 +37,10 @@ Die Wahl des Nationalrates findet alle 4 Jahre am zweiten Wochenende im Oktober 
 
 ## Kommissionen
 
+## Sitzverteilung
+Die Sitzverteilung basiert auf diversen Bevölkerungszahlschätzungen und sieht derzeit so aus:
+![Sitzverteilung im europäischen Nationalrat](/photos/Sitzverteilung%20Nationalrat.png)
+
 # Staatsrat
 ## Zweck
 
@@ -51,3 +55,7 @@ Die Wahl des Nationalrates findet alle 4 Jahre am zweiten Wochenende im Oktober 
 
 ## Kommissionen
 
+## Sitzverteilung
+Die Sitzverteilung ist relativ einfach; Jeder Gliedstaat erhält 2 Abgeordnete, ebenso die Wahlkreise der Territorien.  
+Die Sitzverteilung basiert auf diversen Bevölkerungszahlschätzungen und sieht derzeit so aus:
+![Sitzverteilung im europäischen Staatsrat](/photos/Sitzverteilung%20Staatsrat.png)

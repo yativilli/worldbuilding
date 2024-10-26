@@ -97,5 +97,5 @@ Präsident der europäischen Kommission der Vereinigten Staaten von Europa
 
 
 _________________________________  
-Präsident der Europäischen der Vereinigten Staaten von Europa  
+Präsident der europäischen Bundesversammlung der Vereinigten Staaten von Europa  
 

@@ -72,7 +72,7 @@ _Elemente der Infrastruktur, deren Verlust oder Zerstörung in einer massiven Ka
 (5) Gravierende Verstösse gegen die Rechenschaftsplicht oder anderer Gesetze durch ausländische Geheimdienste werden mit nicht weniger als 10 Jahren geandet.  
 
 ## §5 Inkrafttreten
-(1) Dieses Gesetz tritt am Tag nach seiner Verkündigung in Kraft.  
+(1) Dieses Gesetz tritt am 01.01.2025 um 00:00:00 in Kraft.   
 
 
 _________________________________  
@@ -80,6 +80,4 @@ Präsident der europäischen Kommission der Vereinigten Staaten von Europa
 
 
 _________________________________  
-Präsident der Europäischen der Vereinigten Staaten von Europa  
-
-Dieses Gesetz tritt am 01.01.2025 um 00:00:00 in Kraft.  
+Präsident der europäischen Bundesversammlung der Vereinigten Staaten von Europa  

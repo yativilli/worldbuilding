@@ -12,11 +12,5 @@
 ## Union Secession Act of 2024
 [ACT](./Secession2024.md)
 
-## National Firearms Act of 2024
-[ACT](https://www.fedlex.admin.ch/eli/oc/2008/766/de)
-
-## Federal Civil Code of 2024
-[ACT](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de)
-
-## Federal Penal COde of 2024
-[ACT](https://www.fedlex.admin.ch/eli/cc/54/757_781_799/de)
+## Parliamentary Procedure Act of 2024
+[Act](./ParliamentaryProcedure2024.md)

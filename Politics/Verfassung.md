@@ -20,7 +20,7 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 
 (1) Das europäische Volk, sowie die Staaten Norwegen, Schweden, Finnland, Dänemark, Island, Schottland, Irland, Grossbritannien, Estland, Lettland, Litauen, Königsberg, Belarus, Ukraine, Krim, Polen, Tschechien, Slowakei, Österreich, Ungarn, Rumänien, Slowenien, Kroatien-Bosnien, Serbien, Montenegro, Kosovo, Bulgarien, Mazedonien, Albanien, Griechenland,  Zypern, Malta, Schweiz, Frankreich, Portugal, Spanien, Katalonien, Italien, Korsika-Sardinien, Belgien, Luxembourg, Baskenland, Deutschland und die Niederlande bilden zusammen die   vereinigten Staaten von Europa.  
 
-(2) Zusätzlich sind auch die europäischen Territorien Grönland, Färöer, Französisch-Guyana, Guadeloupe, Martinique, Mayotte, Neu-Kaledonien, Réunion, Saint Barthelemy, Saint Martin,   St. Pierre et Miquelon, Wallis et Futuna, die Karibischen Niederlande, Aruba, Curaçao, Sint Marten, Ceuta, Melilla, Spitzbergen, Anguilla, Bermuda, die Jungferninseln,   die Falklandinseln, Cayman, Montserrat, Pitcairn, St. Helena, Ascension, Tristan da Cunha, Südgeorgien sowie die Turks- und Caicosinseln Teil der vereinigten Staaten von Europa.  
+(2) Zusätzlich sind auch die europäischen Territorien Grönland, Färöer, Französisch-Guyana, Guadeloupe, Martinique, Mayotte, Neu-Kaledonien, Réunion, Saint Barthelemy, Saint Martin,   St. Pierre et Miquelon, Wallis et Futuna, die Karibischen Niederlande, Aruba, Curaçao, Sint Marten, Ceuta, Melilla, Spitzbergen, Anguilla, Bermuda, die Jungferninseln,   die Falklandinseln, Caymaninseln, Montserrat, Pitcairninseln, St. Helena, Ascension, Tristan da Cunha, Südgeorgien sowie die Turks-, Sandwich und Caicosinseln Teil der vereinigten Staaten von Europa.  
 
 ## Artikel 2: Staatsform
 
@@ -284,7 +284,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ### Artikel 32a: Parlamentsauflösung
 
-(1) Im Falle einer Handlungsunfähigkeit einer oder beider Räte für eine Dauer von mehr als 3 Monaten oder das Scheitern der Kommissionswahl gemäss Verfassung, so kann der Präsident der Union das Parlament oder einen Rat auflösen.  
+(1) Im Falle einer nicht anderweitig lösbaren Handlungsunfähigkeit einer oder beider Räte für eine Dauer von mehr als 3 Monaten oder das Scheitern der Kommissionswahl gemäss Verfassung, so kann der Präsident der Union das Parlament oder einen Rat auflösen.  
 (2) Das Parlament kann sich durch Zustimmung des Präsidenten der Union und der Bundesregierung frühzeitig selbst auflösen.  
 (3) Es sind unmittelbar nach der Auflösung Neuwahlen einzuleiten.  
 
@@ -297,13 +297,13 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ### Artikel 34: Zusammensetzung und Wahl des Staatsrates
 
-(1) Der Staatsrat besteht aus 96 Abgeordneten der Gliedstaaten.  
+(1) Der Staatsrat besteht aus 2 Abgeordneten pro föderaler Verwaltungseinheit.    
 (2) Jeder Teilstaat bildet einen Wahlkreis und wählt zwei Abgeordnete. Die Territorien werden in Wahlkreise gemäss ihrer Lage zusammengefasst.   
 (3) Die Wahl in den Staatsrat wird vom Gliedstaat geregelt.  
 
 ### Artikel 35: Wahlen zum Europäischen Parlament in den Territorien
 
-(1) Die Territorien werden bei Wahlen zu beiden Kammern des Europäischen Parlaments grundsätzlich nach geografischer Lage in die Wahlkreise Amerika, Europa, Ozeanien und Afrika eingeteilt. Jeder dieser Wahlkreise wählt zwei Abgeordnete.  
+(1) Die Territorien werden bei Wahlen zu beiden Kammern des Europäischen Parlaments grundsätzlich nach geografischer Lage in die Wahlkreise Amerika, Europa, Ozeanien und Afrika eingeteilt.    
 (2) Die Territorien können in ihren Autonomiestatuten andere Regelungen mit der Union aushandeln.  
 
 ### Artikel 35a: Wahlen zum Europäischen Parlament der Auslandseuropäer
@@ -379,6 +379,12 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * d. Ansprachen der Regierung und des Präsidenten zu lauschen.
 (2) Das Gesetz kann weitere Zuständigkeiten vorsehen.  
 
+### Artikel 48: Organisation
+(1) Dem Parlament obliegt im Rahmen der Verfassung die Organisation der jeweiligen Kammer sowie der Organisation in gemeinsamer Verhandlung.  
+(2) Das Gesetz sieht im Falle von Krisenzeiten und Katastrophen ersetzende Massnahmen, wenn das Parlaments nicht handlungsfähig ist.   
+    Jegliche ersetzende Legislative muss demoktratisch gewählt sein und ist schnellstmöglich durch Neuwahlen zu ersetzen.  
+(5) Gesetze über die Erhöhung der Löhne der Parlamentsmitglieder treten erst mit Ende der Legislaturperiode, resp. der Konstituierung des neuen Nationalrates in Kraft.  
+
 ## Kapitel 4.1: Zuständigkeiten des Europäischen Parlaments
 
 ### Artikel 49: Gesetzgebung
@@ -446,13 +452,15 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 * e. Sie befindet über die Gültigkeit zu Stande gekommener Volksinitiativen.
 * f. Sie wirkt bei wichtigen Planungen der Staatstätigkeit mit.
 * g. Sie entscheidet Zuständigkeitskonflikte zwischen den obersten Bundesbehörden.
+* h. Wenn ausserordentliche Umstände es erfordern, kann sie zur Erfüllung der Aufgaben nach den Buchstaben a und b Verordnungen oder einfache Bundesbeschlüsse erlassen.
+* i. Sie entscheidet über Einzelakte, soweit ein Bundesgesetz dies ausdrücklich vorsieht.
 (2) Die Bundesversammlung behandelt Geschäfte, die in die Zuständigkeit des Bundes fallen und keiner anderen Behörde zugewiesen sind.  
 (3) Das Gesetz kann der Bundesversammlung weitere Aufgaben und Befugnisse übertragen.  
 
 ### Artikel 59: Amtsenthebungsverfahren
 
 (1) Die Bundesversammlung hat das Recht, mithilfe einer 2/3-Mehrheit beider Kammern des europäischen Parlaments, einen Kommissar, Richter, ein Kabinettsmitglied oder Abgeordneten ihres Amtes zu entheben.  
-(2) Dieses Recht kommt nur Zustande, wenn das Mitglied entweder aus gesundheitlichen Gründen für unfähig befunden oder aufgrund von Verstössen gegen die Verfassung oder Verbrechen gegen Bundesgesetze durch den Staatsrat für schuldig befunden wird.  
+(2) Dieses Recht kommt nur Zustande, wenn das Mitglied entweder aus gesundheitlichen Gründen für unfähig befunden oder aufgrund von Verstössen gegen die Verfassung oder Verbrechen gegen Bundesgesetze durch den Staatsrat für schuldig befunden wird. Nur der Nationalrat kann mittels einer qualifizierten Mehrheit ein Amtsenthebungsverfahren einleiten.
 (3) Das Gesetz definiert einen konkreten Vorgang, der in einem solchen Falle zu befolgen ist.  
 (4) Reguläre Beamten und Positionen, die nicht durch Wahl erfolgen sind davon ausgenommen.  
 
@@ -494,6 +502,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 (1) Die Kommission bestimmt die Ziele und die Mittel seiner Regierungspolitik. Sie plant und koordiniert die staatlichen Tätigkeiten.  
 (2) Sie informiert die Öffentlichkeit rechtzeitig und umfassend über seine Tätigkeit, soweit nicht überwiegende öffentliche oder private Interessen entgegenstehen.  
+(3) Jegliche Bestimmungen sind per Dekret, Verordnung oder Proklamation zu 
 
 ### Artikel 67: Rechtsetzung und Vollzug
 
@@ -502,7 +511,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ### Artikel 68: Finanzen
 
-(1) Der Bundesrat erarbeitet den Finanzplan, entwirft den Voranschlag und erstellt die Staatsrechnung.  
+(1) Die europäische Kommission erarbeitet den Finanzplan, entwirft den Voranschlag und erstellt die Staatsrechnung.  
 (2) Er sorgt für eine ordnungsgemässe Haushaltführung.  
 
 ### Artikel 70: Äussere und innere Sicherheit

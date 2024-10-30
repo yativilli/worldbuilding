@@ -14,3 +14,9 @@
 
 ## Parliamentary Procedure Act of 2024
 [Act](./ParliamentaryProcedure2024.md)
+
+## Parliamentary Wage Act of 2024
+[Act](./ParliamentaryWage2024.md)
+
+## Parliamentary Security Act of 2024
+[Act](./ParliamentarySecurity2024.md)

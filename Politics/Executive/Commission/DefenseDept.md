@@ -34,8 +34,6 @@ Das Europäisches Department für Verteidigung und Bevölkerungsschutz ist zust�
     * Teilstreitkraft Nationalgarde
     * Teilstreitkraft Raumfahrt
     * Teilstreitkraft Sonderkommandos
-    * Auslandsnachrichtendienst (administrativ)
-    * Inlandsnachrichtendienst (administrativ)
 
 ## Administrativ zugeteilt
 * Auslandsnachrichtendienst (administrativ)

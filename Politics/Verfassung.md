@@ -1043,7 +1043,7 @@ Sie fördert ausserschulische Arbeit mit Kindern und Senioren.
 * Unterstützung der Teilstaatsregierung bei Aufständen, Revolten oder anderen Bedrohungen auf die Verfassungsmässige Ordnung auf Anfrage der Regierung oder Legislative des Teilstaats,
 * Wiederherstellung und Aufrechterhaltung der verfassungsmässigen Ordnung und Vollstreckung von Unionsrecht,
 * Niederschlagung von gewalttätigen Aufständen, Revolten und anderer Verschwörungen gegen die verfassungsmässige Ordnung.  
-Das Gesetz kann weitere Zuständigkeiten vorsehen. Es untersteht dem obligatorischen Referendum.  
+Das Gesetz kann weitere Zuständigkeiten vorsehen. 
 
 
 ### Artikel 152: Öffentliche Werke und Verkehr

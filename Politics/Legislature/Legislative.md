@@ -39,7 +39,7 @@ Die Wahl des Nationalrates findet alle 4 Jahre am zweiten Wochenende im Oktober 
 
 ## Sitzverteilung
 Die Sitzverteilung basiert auf diversen Bevölkerungszahlschätzungen und sieht derzeit so aus:
-![Sitzverteilung im europäischen Nationalrat](/photos/Sitzverteilung%20Nationalrat.png)
+![Sitzverteilung im europäischen Nationalrat](./photos/Sitzverteilung%20Nationalrat.png)
 
 # Staatsrat
 ## Zweck
@@ -58,4 +58,4 @@ Die Sitzverteilung basiert auf diversen Bevölkerungszahlschätzungen und sieht 
 ## Sitzverteilung
 Die Sitzverteilung ist relativ einfach; Jeder Gliedstaat erhält 2 Abgeordnete, ebenso die Wahlkreise der Territorien.  
 Die Sitzverteilung basiert auf diversen Bevölkerungszahlschätzungen und sieht derzeit so aus:
-![Sitzverteilung im europäischen Staatsrat](/photos/Sitzverteilung%20Staatsrat.png)
+![Sitzverteilung im europäischen Staatsrat](./photos/Sitzverteilung%20Staatsrat.png)

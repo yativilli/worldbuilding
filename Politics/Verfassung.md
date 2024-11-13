@@ -249,7 +249,8 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 (1) Die Mitglieder des Nationalrates, des Staatsrates, der europäischen Kommission, sowie die Richterinnen und Richter der Unionsgerichte können nicht gleichzeitig einer anderen dieser Behörden angehören.  
 (2) Die Mitglieder der europäischen Kommission und die vollamtlichen Richterinnen und Richter der Unionsgerichte dürfen kein anderes Amt des Bundes oder eines Teilstaates bekleiden und keine andere Erwerbstätigkeit ausüben.  
-(3) Das Gesetz kann weitere Unvereinbarkeiten vorsehen.  
+(3) Die Mitglieder der Regierung dürfen nicht ein hohes Amt in einem Abhängigkeitsverhältnis eines Unternehmens mit der Union neben ihrer Regierungstätigkeit haben.  
+(4) Das Gesetz kann weitere Unvereinbarkeiten vorsehen.  
 
 ### Artikel 26: Die beratenden Einrichtungen der Union
 

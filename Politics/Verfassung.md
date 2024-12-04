@@ -113,7 +113,6 @@ Es kann festlegen, wer die Aufgaben, Rechte und Pflichte wahrnimmt, die nicht fe
 8. Organisation und Führung der Bundespolizei
 9. Einrichtung und Organisation der Bundesbehörden und sonstigen Bundesämter
 10. Nationale Geschichtserhaltung und Archivierung
-11. Energiepolitik betreffend Kernenergie.
 
 ## Artikel 14: Geteilte Zuständigkeiten
 
@@ -124,12 +123,11 @@ Es kann festlegen, wer die Aufgaben, Rechte und Pflichte wahrnimmt, die nicht fe
 - Musikalische Bildung;
 - Sport und Kultur;
 - Sprachen;
-- Kirche und Staat;
 - Sicherheit und Schutz der Bevölkerung und des Landes im Rahmen der Polizei und der Strafverfolgung;
 - Nachhaltigkeit und Schutz der Umwelt;
 - Öffentlicher Verkehr;
 - Strasseninfrastruktur;
-- Energiepolitik (ausgenommen Kernenergie).
+- Energiepolitik.
 
 ## Artikel 15: Unterstützungs-, Koordinierungs- und Ergänzungsmassnahmen
 
@@ -285,8 +283,8 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 ### Artikel 32a: Parlamentsauflösung
 
 (1) Im Falle einer nicht anderweitig lösbaren Handlungsunfähigkeit einer oder beider Räte für eine Dauer von mehr als 3 Monaten oder das Scheitern der Kommissionswahl gemäss Verfassung, so kann der Präsident der Union das Parlament oder einen Rat auflösen.  
-(2) Das Parlament kann sich durch Zustimmung des Präsidenten der Union und der Bundesregierung frühzeitig selbst auflösen.  
-(3) Es sind unmittelbar nach der Auflösung Neuwahlen einzuleiten.  
+(2) Es sind unmittelbar nach der Auflösung Neuwahlen einzuleiten.  
+(3)
 
 ### Artikel 33: Zusammensetzung und Wahl des Nationalrates
 
@@ -606,7 +604,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 (1) Der Präsident der Vereinigten Staaten von Europa ist zuständig oder hat Kompetenzen für:  
 * a. Die Vertretung der vereinigten Staaten von Europa nach aussen;
 * b. Den Abschluss von Staatsverträgen;
-* c. Den Oberbefehl über die Armee;
+* c. Den Oberbefehl über die Armee im Rahmen der Verfassung;
 * d. Ernennung und Entlassung der Mitglieder der europäischen Kommission gemäss Verfassung;
 * e. Auflösung des Parlaments gemäss Verfassung;
 * f.  Einberufung der Bundesversammlung;
@@ -615,7 +613,7 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 ### Artikel 84: Informationspflicht
 
-(1) Die Bundesversammlung und die europäische Kommission sind dazu angehalten, den Unionspräsidenten über ihre Tätigkeiten zu informieren, ihn zu konsultieren und sich von ihm Rat einholen zu lassen.  
+(1) Die Bundesversammlung und die europäische Kommission sind dazu verpflichtet, den Unionspräsidenten über ihre Tätigkeiten zu informieren, ihn zu konsultieren und sich von ihm Rat einholen zu lassen.  
 
 ## Kapitel 7: Finanzordnung
 
@@ -958,24 +956,18 @@ sind entsprechend in Kontext zu setzen und dahingegend zu modifizieren.
 (2) Für das Schulwesen sind die Teilstaaten zuständig. Die Schüler und Lehrer sind am Schulwesen ausreichend zu beteiligen.  
 (3) Sie sorgen für einen ausreichenden, unentgeltlichen Grundschuluntericht, der allen Kindern offensteht. Er ist obligatorisch und untersteht staatlicher Leitung oder Aufsicht.  
 (4) Die Gliedstaaten sorgen für eine ausreichende Sonderschulung aller behinderten Kinder und Jugendlichen bis längstens zum vollendeten 20. Altersjahr.  
-(5) Die Union erlässt, soweit nicht durch die gemeinsamen Organe selbst harmonisiert, Vorschriften zu:  
-1. Schuleintrittalter,
-2. Schulpflicht,
-3. Dauer und Ziele der Bildungsstufen sowie deren Übergänge,
-4. Annerkennung von Abschlüssen,
-5. Beginn des Schuljahres.
-Die Teilstaaten sind ausreichend und besonders bei solchen Vorschriften zu beteiligen und zu berücksichtigen.  
-(6) Die Union erlässt Vorschriften über die Berufsbildung.  
-(7) Sie fördert ein breites und durchlässiges Angebot im Bereich der Berufsbildung.  
-(8) Die Union betreibt die Europäischen Hochschulen. Er kann weitere Hochschulen und andere Institutionen des Hochschulbereichs errichten, übernehmen oder betreiben.  
-(9) Sie fördert und unterstützt Hochschulen der Teilstaaten.  
-(10) Die Union und Teilstaaten organisieren gemeinsame Organe zur Bewältigung der Bildungsaufgaben und derer Koordination.  
+(5) Die Union erlässt Vorschriften über die Berufsbildung.  
+(6) Sie fördert ein breites und durchlässiges Angebot im Bereich der Berufsbildung.  
+(7) Die Union betreibt die Europäischen Hochschulen. Er kann weitere Hochschulen und andere Institutionen des Hochschulbereichs errichten, übernehmen oder betreiben.  
+(8) Sie fördert und unterstützt Hochschulen der Teilstaaten.  
+(9) Die Union und Teilstaaten organisieren gemeinsame Organe zur Bewältigung der Bildungsaufgaben und derer Koordination.  
 
 ### Artikel 141: Betritt zur Union
 (1) Das Gesetz sieht ein Verfahren zum Beitritt zur Union vor.  
 
 ### Artikel 142: Austritt aus der Union
-(1) Das Gesetz sieht ein Verfahren zum Austritt aus der Union vor.  
+(1) Der Austritt der Union ist nicht vorhergesehen.
+(2) Das Gesetz sieht ein Verfahren zum Austritt aus der Union vor.  
 
 ### Artikel 143: Status der Gliedstaaten
 (1) Die Union kann auf Ersuchen der Legislative und der Regierung eines Gliedstaates oder Territoriums den Status eines Teilsstaates in den jeweils anderen verfügen.  

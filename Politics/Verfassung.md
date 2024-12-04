@@ -18,7 +18,7 @@ geben sich, in ihren Differenzen geeint, die folgende Verfassung:
 # Titel 1: Die Union und Gliedstaaten
 ## Artikel 1: Die vereinigten Staaten von Europa
 
-(1) Das europäische Volk, sowie die Staaten Norwegen, Schweden, Finnland, Dänemark, Island, Schottland, Irland, Grossbritannien, Estland, Lettland, Litauen, Königsberg, Belarus, Ukraine, Krim, Polen, Tschechien, Slowakei, Österreich, Ungarn, Rumänien, Slowenien, Kroatien-Bosnien, Serbien, Montenegro, Kosovo, Bulgarien, Mazedonien, Albanien, Griechenland,  Zypern, Malta, Schweiz, Frankreich, Portugal, Spanien, Katalonien, Italien, Korsika-Sardinien, Belgien, Luxembourg, Baskenland, Deutschland und die Niederlande bilden zusammen die   vereinigten Staaten von Europa.  
+(1) Das europäische Volk, sowie die Staaten Norwegen, Schweden, Finnland, Dänemark, Island, Schottland, Irland, Grossbritannien, Estland, Lettland, Litauen, Königsberg, Belarus, Ukraine, Krim, Polen, Tschechien, Slowakei, Österreich, Ungarn, Rumänien, Slowenien, Kroatien-Bosnien, Serbien, Montenegro, Kosovo, Bulgarien, Mazedonien, Albanien, Griechenland,  Zypern, Malta, Schweiz, Frankreich, Portugal, Spanien, Katalonien, Italien, Korsika-Sardinien, Belgien, Luxembourg, Baskenland, Deutschland, Andorra, Liechtenstein, San Marino, Südtirol, das Aostatal und die Niederlande bilden zusammen die vereinigten Staaten von Europa.  
 
 (2) Zusätzlich sind auch die europäischen Territorien Grönland, Färöer, Französisch-Guyana, Guadeloupe, Martinique, Mayotte, Neu-Kaledonien, Réunion, Saint Barthelemy, Saint Martin,   St. Pierre et Miquelon, Wallis et Futuna, die Karibischen Niederlande, Aruba, Curaçao, Sint Marten, Ceuta, Melilla, Spitzbergen, Anguilla, Bermuda, die Jungferninseln,   die Falklandinseln, Caymaninseln, Montserrat, Pitcairninseln, St. Helena, Ascension, Tristan da Cunha, Südgeorgien sowie die Turks-, Sandwich und Caicosinseln Teil der vereinigten Staaten von Europa.  
 
@@ -247,7 +247,8 @@ Die europäischen Bürgerinnen und Bürger sind mindestens mit drei Mitgliedern 
 
 (1) Die Mitglieder des Nationalrates, des Staatsrates, der europäischen Kommission, sowie die Richterinnen und Richter der Unionsgerichte können nicht gleichzeitig einer anderen dieser Behörden angehören.  
 (2) Die Mitglieder der europäischen Kommission und die vollamtlichen Richterinnen und Richter der Unionsgerichte dürfen kein anderes Amt des Bundes oder eines Teilstaates bekleiden und keine andere Erwerbstätigkeit ausüben.  
-(3) Das Gesetz kann weitere Unvereinbarkeiten vorsehen.  
+(3) Die Mitglieder der Regierung dürfen nicht ein hohes Amt in einem Abhängigkeitsverhältnis eines Unternehmens mit der Union neben ihrer Regierungstätigkeit haben.  
+(4) Das Gesetz kann weitere Unvereinbarkeiten vorsehen.  
 
 ### Artikel 26: Die beratenden Einrichtungen der Union
 

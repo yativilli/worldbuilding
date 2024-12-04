@@ -96,21 +96,17 @@ Die Union und deren Gliedstaaten wie auch alle Vertragsstaaten akzeptieren hierm
     2. die Republik Srpska wird als gleichwertiger und vollständig vom Mutterland unabhängiger Staat mit der Republik Serbien vereinigt.
 - die Republik Serbien:
     1. die Republik Serbien aktzeptiert die vollumfängliche Unabhängigkeit der Republik Kosovo von der Republik Serbien und legt jegliche Streitigkeiten und militärische Massnahmen bei.
-- das Fürstentum Liechtenstein:
-    1. das Fürstentum Liechtenstein wird vollumfänglich als vollwertiger Kanton in die Schweizer Eidgenossenschaft eingegliedert.
 - das Königreich Spanien:
     1. die Autonome Gemeinschaft des Baskenland erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.
     2. die Autonome Gemeinschaft Katalonien erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.
     3. die Autonome Stadt Ceuta erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
     4. die Autonome Stadt Melilla erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
-- das Fürstentum Andorra:
-    1. das Fürstentum Andorra wird vollumfänglich als vollwertiger Provinz in die Autonome Gemeinschaft Katalonien eingegliedert.
-- die Republik San Marino:
-    1. die Republik San Marino wird vollumfänglich als autonome Region in die Italienische Republik eingegliedert.
 - der Staat Vatikanstadt:
     1. der Staat Vatikanstadt wird vollumfänglich in die italinische Republik eingegliedert.
 - die Republik Italien:
     1. die Autonome Region Sardinien erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa. Sie wird mit der Autonomen Region Korsika vereinigt.
+    2. die Autonome Region Südtirol und Trentino erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.  
+    3. die Autonome Region Aostatal erhält die volle Unabhängigkeit vom Mutterland und den Status eines Teilstaates der vereinigten Staaten von Europa.  
 - das Königreich Dänemark:
     1. die Autonome Region Grönland erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
     2. die Autonomen Inseln der Färöer erhalten die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
@@ -133,7 +129,6 @@ Die Union und deren Gliedstaaten wie auch alle Vertragsstaaten akzeptieren hierm
     2. das Überseegebiet Aruba erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
     3. das Überseegebiet Curaçao erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
     4. das Überseegebiet Sint Marten erhält die volle Unabhängigkeit vom Mutterland und den Status eines Territoriums der vereinigten Staaten von Europa.
-
 (3) Jegliche Überseegebiete, die als Resultat kolonialer Ambitionen entstanden sind erhalten auf Unterzeichnung des Gesetzes den Status eines Territoriums.  
 Bis zur Aushandlung des jeweiligen Autonomiestatus unterstehen sie geschäftsführend ihren Mutterländern.   
 

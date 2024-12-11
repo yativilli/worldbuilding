@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "8c12b3a58ebfe058",
+    "type": "split",
+    "children": [
+      {
+        "id": "134de1ba8d9cd9c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77846903933d0e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c92bfa32d31af345",
+    "type": "split",
+    "children": [
+      {
+        "id": "709e0e8627439aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "50a4746f20ab3010",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "18d33977c2fa8506",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "162a84c0e2c5b62a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "ec7ea4066e2bf5f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "613455545003a01e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26a8dc8d68e8471f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "310216d1320d1993",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0a8905a4873d512f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dfcb698f4c9b30fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e77846903933d0e7",
+  "lastOpenFiles": [
+    "Informationen/Die Vereinigten Staaten von Europa.md",
+    "Geschichte/Plot.md",
+    "Geschichte/Geschichte.md",
+    "Geschichte/Auslöser.md",
+    "Politik/Exekutive/Kabinett.md",
+    "Untitled.canvas",
+    "Politik/Organe der Union.md",
+    "Politik/Exekutive/Departments/Räte/Nationaler Sicherheitsrat der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Unabhängige Agencies/Europäische Kommission für Kommunikation.md",
+    "Politik/Exekutive/Unabhängige Agencies/Europäische Agentur für staatliche Unternehmen.md",
+    "Politik/Exekutive/Unabhängige Agencies/Europäische Dienstleistungsverwaltung und HR Management.md",
+    "Politik/Exekutive/Unabhängige Agencies/Europäische Agentur für postkoloniale Beziehungen.md",
+    "Politik/Exekutive/Kommission der Vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Europäische Kommission.md",
+    "Politik/Exekutive/Unabhängige Behörden.md",
+    "Europäisches Departement für Justiz.md",
+    "Politik/Exekutive/Departments/Europäisches Department für Justiz.md",
+    "Politik/Legislative/Gesetze.md",
+    "Politik/Exekutive/Unabhängige Agencies/Europäische Radio- und Fernsehgesellschaft.md",
+    "Politik/Legislative/Gesetze/Unification Act of 2024.md",
+    "Politik/Legislative/Gesetze/Secession Act of 2024.md",
+    "Politik/Legislative/Gesetze/Parliamentary Wage Act of 2024.md",
+    "Politik/Legislative/Gesetze/Parliamentary Procedure Act of 2024.md",
+    "Politik/Legislative/Gesetze/Foreign Influence Act of 2024.md",
+    "Politik/Legislative/Gesetze/Accession Act of 2024.md",
+    "Politik/Legislative/Gesetze/Union Secession Act of 2024.md",
+    "Politik/Legislative/Legislative.md",
+    "Politik/Judikative",
+    "Politik/Exekutive",
+    "Politik/Legislative",
+    "Politik",
+    "Politik/Legislative/Gesetze",
+    "Geschichte",
+    "Politik/Exekutive/Militär",
+    "Informationen/Gliedstaaten",
+    "Informationen/Territorien",
+    "Informationen"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Politik/Exekutive  ",
+      "color": {
+        "a": 1,
+        "rgb": 15968274
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1.01875,
+  "collapse-forces": false,
+  "centerStrength": 0.578125,
+  "repelStrength": 13.9583333333333,
+  "linkStrength": 0.526041666666667,
+  "linkDistance": 81,
+  "scale": 0.27268599173600694,
+  "close": true
+}

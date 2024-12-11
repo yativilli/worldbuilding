@@ -1,0 +1,5 @@
+[[Präsident der vereinigten Staaten von Europa]]
+[[Streitkräfte der vereinigten Staaten von Europa]]
+[[Europäisches Department für Verteidigung und Bevölkerungsschutz]]
+[[Europäisches Department für Inneres und Kultur]]
+[[Europäisches Department für Auswärtige Angelegenheiten]]

@@ -1,0 +1,38 @@
+[
+    {
+        "name":"Switzerland",
+        "population":9000000,
+        "seats": 0,
+        "percentage_population": 0,
+        "comma": 0
+    },
+    {
+        "name": "Germany",
+        "population": 80000000,
+        "seats": 0,
+        "percentage_population": 0,
+        "comma": 0
+    },
+    {
+        "name": "France",
+        "population": 45000000,
+        "seats": 0,
+        "percentage_population": 0,
+        "comma": 0
+    },
+    {
+        "name": "United Kingdom",
+        "population": 60000000,
+        "seats": 0,
+        "percentage_population": 0,
+        "comma": 0
+    },
+    ,
+    {
+        "name": "Andorra",
+        "population": 300000,
+        "seats": 0,
+        "percentage_population": 0,
+        "comma": 0
+    }
+]

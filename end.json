@@ -1,0 +1,426 @@
+[
+    {
+        "name":  "Deutschland",
+        "population":  84669326,
+        "seats":  87,
+        "percentage_population":  0.14147345892337637,
+        "comma":  -3.2477123173611915,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Frankreich",
+        "population":  68025836,
+        "seats":  70,
+        "percentage_population":  0.11366395328426658,
+        "comma":  -2.7109396557141849,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Grossbritannien",
+        "population":  60245029,
+        "seats":  63,
+        "percentage_population":  0.10066305046019994,
+        "comma":  -3.4074741275616347,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Italien",
+        "population":  56200000,
+        "seats":  59,
+        "percentage_population":  0.093904236246001915,
+        "comma":  -3.408692142366867,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Spanien",
+        "population":  38589215,
+        "seats":  41,
+        "percentage_population":  0.064478483307967266,
+        "comma":  -2.8287378816833737,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Polen",
+        "population":  36753736,
+        "seats":  39,
+        "percentage_population":  0.061411592673793335,
+        "comma":  -2.6443371371143485,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Ukraine",
+        "population":  34777436,
+        "seats":  37,
+        "percentage_population":  0.058109405092067822,
+        "comma":  -2.5992321854958504,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Rumänien",
+        "population":  19000000,
+        "seats":  22,
+        "percentage_population":  0.031746983784235523,
+        "comma":  -3.2057855997325717,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Niederlande",
+        "population":  17947684,
+        "seats":  21,
+        "percentage_population":  0.029988675416451754,
+        "comma":  -3.2467041534605627,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Belgien",
+        "population":  11600000,
+        "seats":  15,
+        "percentage_population":  0.019382369047217476,
+        "comma":  -3.5256375240472533,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Schweden",
+        "population":  10582066,
+        "seats":  14,
+        "percentage_population":  0.017681509352932109,
+        "comma":  -3.5325464630641914,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Tschechien",
+        "population":  10700000,
+        "seats":  14,
+        "percentage_population":  0.01787856455217474,
+        "comma":  -3.4158897851125527,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Griechenland",
+        "population":  10482487,
+        "seats":  13,
+        "percentage_population":  0.017515123410918928,
+        "comma":  -2.6310469407359935,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Ungarn",
+        "population":  9584627,
+        "seats":  13,
+        "percentage_population":  0.016014894628786629,
+        "comma":  -3.5191823797583162,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Portugal",
+        "population":  10421117,
+        "seats":  13,
+        "percentage_population":  0.017412580653295848,
+        "comma":  -2.6917522532488576,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Belarus",
+        "population":  9200000,
+        "seats":  12,
+        "percentage_population":  0.015372223727103515,
+        "comma":  -2.8996435535547178,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Schweiz",
+        "population":  8805000,
+        "seats":  12,
+        "percentage_population":  0.014712220643168093,
+        "comma":  -3.2903653792444896,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Österreich",
+        "population":  9158750,
+        "seats":  12,
+        "percentage_population":  0.015303299354414057,
+        "comma":  -2.9404467821868785,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Serbien",
+        "population":  8014819,
+        "seats":  11,
+        "percentage_population":  0.013391912043504355,
+        "comma":  -3.0719880702454212,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Katalonien",
+        "population":  8017000,
+        "seats":  11,
+        "percentage_population":  0.013395556263064009,
+        "comma":  -3.0698306922661063,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Dänemark",
+        "population":  5900000,
+        "seats":  9,
+        "percentage_population":  0.00985827391194682,
+        "comma":  -3.1639018441274827,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Kroatien-Bosnien",
+        "population":  6049209,
+        "seats":  9,
+        "percentage_population":  0.010107586317392189,
+        "comma":  -3.0163089001038248,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Bulgarien",
+        "population":  6447710,
+        "seats":  9,
+        "percentage_population":  0.010773439200813327,
+        "comma":  -2.6221239931185103,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Irland",
+        "population":  6197100,
+        "seats":  9,
+        "percentage_population":  0.01035469648469926,
+        "comma":  -2.8700196810580376,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Slovakei",
+        "population":  5500000,
+        "seats":  8,
+        "percentage_population":  0.0091899163585944937,
+        "comma":  -2.5595695157120604,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Schottland",
+        "population":  5436600,
+        "seats":  8,
+        "percentage_population":  0.0090839816863881491,
+        "comma":  -2.6222828416582153,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Finnland",
+        "population":  5469641,
+        "seats":  8,
+        "percentage_population":  0.0091391896911889349,
+        "comma":  -2.5895997028161508,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Norwegen",
+        "population":  5368000,
+        "seats":  8,
+        "percentage_population":  0.0089693583659882243,
+        "comma":  -2.6901398473349705,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Litauen",
+        "population":  2869660,
+        "seats":  6,
+        "percentage_population":  0.0047948973413825952,
+        "comma":  -3.1614207739015034,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Albanien",
+        "population":  2402113,
+        "seats":  5,
+        "percentage_population":  0.0040136759188895439,
+        "comma":  -2.6239038560173897,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Slowenien",
+        "population":  2100000,
+        "seats":  5,
+        "percentage_population":  0.0035088771550997157,
+        "comma":  -2.9227447241809683,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Wahlkreis Amerika",
+        "population":  1648474,
+        "seats":  5,
+        "percentage_population":  0.0027544251235123089,
+        "comma":  -3.3693803268807132,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Baskenland",
+        "population":  2208174,
+        "seats":  5,
+        "percentage_population":  0.0036896244300405521,
+        "comma":  -2.8157423374159931,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Lettland",
+        "population":  1875757,
+        "seats":  5,
+        "percentage_population":  0.0031341908980087509,
+        "comma":  -3.1445589883788196,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Mazedonien",
+        "population":  1800000,
+        "seats":  5,
+        "percentage_population":  0.0030076089900854704,
+        "comma":  -3.2194954778694012,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Krim",
+        "population":  1967200,
+        "seats":  5,
+        "percentage_population":  0.003286982447386743,
+        "comma":  -3.0541063911470481,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Korsika-Sardinien",
+        "population":  1935010,
+        "seats":  5,
+        "percentage_population":  0.0032331963732807143,
+        "comma":  -3.0859477470178169,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Kosovo",
+        "population":  1773971,
+        "seats":  5,
+        "percentage_population":  0.002964117293194951,
+        "comma":  -3.2452425624285888,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Königsberg",
+        "population":  1029966,
+        "seats":  4,
+        "percentage_population":  0.0017209638894902064,
+        "comma":  -2.9811893774217975,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Luxembourg",
+        "population":  660809,
+        "seats":  4,
+        "percentage_population":  0.0011041417161829943,
+        "comma":  -3.3463481040196674,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Montenegro",
+        "population":  616000,
+        "seats":  4,
+        "percentage_population":  0.0010292706321625832,
+        "comma":  -3.3906717857597508,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Wahlkreis Afrika",
+        "population":  1133146,
+        "seats":  4,
+        "percentage_population":  0.0018933667203774392,
+        "comma":  -2.8791269015365559,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Zypern",
+        "population":  1200000,
+        "seats":  4,
+        "percentage_population":  0.00200507266005698,
+        "comma":  -2.8129969852462677,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Südtirol",
+        "population":  1073574,
+        "seats":  4,
+        "percentage_population":  0.0017938282299566771,
+        "comma":  -2.9380536878656471,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Estland",
+        "population":  1300000,
+        "seats":  4,
+        "percentage_population":  0.0021721620483950619,
+        "comma":  -2.7140800673501233,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Malta",
+        "population":  519562,
+        "seats":  4,
+        "percentage_population":  0.000868132967837104,
+        "comma":  -3.4860652830404346,
+        "sta_seats":  3
+    },
+    {
+        "name":  "San Marino",
+        "population":  33869,
+        "seats":  3,
+        "percentage_population":  5.6591504936224886E-05,
+        "comma":  -2.9664978290777548,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Aostatal",
+        "population":  123360,
+        "seats":  3,
+        "percentage_population":  0.00020612146945385757,
+        "comma":  -2.8779760900833162,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Liechtenstein",
+        "population":  40032,
+        "seats":  3,
+        "percentage_population":  6.6889223939500857E-05,
+        "comma":  -2.9604015794278156,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Wahlkreis Ozeanien",
+        "population":  271442,
+        "seats":  3,
+        "percentage_population":  0.0004535507774926557,
+        "comma":  -2.7314979397243477,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Andorra",
+        "population":  79034,
+        "seats":  3,
+        "percentage_population":  0.00013205742717911948,
+        "comma":  -2.9218220031099613,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Island",
+        "population":  396960,
+        "seats":  3,
+        "percentage_population":  0.00066327803594684912,
+        "comma":  -2.6073394027194654,
+        "sta_seats":  3
+    },
+    {
+        "name":  "Wahlkreis Europa",
+        "population":  281551,
+        "seats":  3,
+        "percentage_population":  0.00047044184375975238,
+        "comma":  -2.7214984284942267,
+        "sta_seats":  3
+    }
+]

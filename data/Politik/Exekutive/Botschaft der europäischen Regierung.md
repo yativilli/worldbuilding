@@ -1,0 +1,1 @@
+Eine Botschaft der europäischen Regierung ist ein Bericht der Kommission, resp. des Unionspräsidenten, welcher einen Entwurf zu einem parlamentarischen Erlass erläutert. Sie ist an die Bundesversammlung addressiert. 

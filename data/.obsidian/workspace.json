@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "134de1ba8d9cd9c4",
+        "id": "1fe17883d8932475",
         "type": "tabs",
         "children": [
           {
-            "id": "e77846903933d0e7",
+            "id": "69b4c1688efe755b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Geschichte/Charaktere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Charaktere"
             }
           }
         ]
@@ -155,35 +159,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e77846903933d0e7",
+  "active": "69b4c1688efe755b",
   "lastOpenFiles": [
-    "Informationen/Die Vereinigten Staaten von Europa.md",
+    "Politik/Verfassung der Vereinigten Staaten von Europa.md",
+    "Geschichte/Charaktere.md",
     "Geschichte/Plot.md",
+    "Politik/Exekutive/Verordnungen der europäischen Regierung.md",
+    "Politik/Exekutive/Proklamation der europäischen Regierung.md",
+    "Politik/Exekutive/Memorandum der europäischen Regierung.md",
     "Geschichte/Geschichte.md",
-    "Geschichte/Auslöser.md",
-    "Politik/Exekutive/Kabinett.md",
-    "Untitled.canvas",
-    "Politik/Organe der Union.md",
-    "Politik/Exekutive/Departments/Räte/Nationaler Sicherheitsrat der vereinigten Staaten von Europa.md",
-    "Politik/Exekutive/Unabhängige Agencies/Europäische Kommission für Kommunikation.md",
-    "Politik/Exekutive/Unabhängige Agencies/Europäische Agentur für staatliche Unternehmen.md",
-    "Politik/Exekutive/Unabhängige Agencies/Europäische Dienstleistungsverwaltung und HR Management.md",
-    "Politik/Exekutive/Unabhängige Agencies/Europäische Agentur für postkoloniale Beziehungen.md",
+    "Politik/Exekutive/Botschaft der europäischen Regierung.md",
+    "Politik/Exekutive/Exekutive.md",
+    "Idee.md",
+    "Politik/Exekutive/Botschaften/Untitled.md",
+    "Politik/Exekutive/Botschaften",
+    "Politik/Exekutive/Militär/Spezialstreitkräfte der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Militär/Raumfahrtstreitkräfte der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Militär/Nationalgarde der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Militär/Marine der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Militär/Luftstreitkräfte der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Militär/Küstenwache der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Militär/Armee der vereinigten Staaten von Europa.md",
+    "Politik/Exekutive/Präsident der vereinigten Staaten von Europa.md",
     "Politik/Exekutive/Kommission der Vereinigten Staaten von Europa.md",
-    "Politik/Exekutive/Europäische Kommission.md",
+    "Politik/Exekutive/Stabschef des Kommissionspräsidenten.md",
+    "Politik/Exekutive/Streitkräfte der vereinigten Staaten von Europa.md",
     "Politik/Exekutive/Unabhängige Behörden.md",
-    "Europäisches Departement für Justiz.md",
-    "Politik/Exekutive/Departments/Europäisches Department für Justiz.md",
-    "Politik/Legislative/Gesetze.md",
-    "Politik/Exekutive/Unabhängige Agencies/Europäische Radio- und Fernsehgesellschaft.md",
-    "Politik/Legislative/Gesetze/Unification Act of 2024.md",
-    "Politik/Legislative/Gesetze/Secession Act of 2024.md",
-    "Politik/Legislative/Gesetze/Parliamentary Wage Act of 2024.md",
-    "Politik/Legislative/Gesetze/Parliamentary Procedure Act of 2024.md",
-    "Politik/Legislative/Gesetze/Foreign Influence Act of 2024.md",
-    "Politik/Legislative/Gesetze/Accession Act of 2024.md",
-    "Politik/Legislative/Gesetze/Union Secession Act of 2024.md",
-    "Politik/Legislative/Legislative.md",
+    "Politik/Exekutive/Stabschef des Präsidenten der Union.md",
+    "Politik/Exekutive/Kabinett.md",
+    "Politik/Judikative/Europäischer Gerichtshof.md",
+    "Untitled.canvas",
     "Politik/Judikative",
     "Politik/Exekutive",
     "Politik/Legislative",
@@ -192,7 +197,6 @@
     "Geschichte",
     "Politik/Exekutive/Militär",
     "Informationen/Gliedstaaten",
-    "Informationen/Territorien",
-    "Informationen"
+    "Informationen/Territorien"
   ]
 }

@@ -1,20 +1,33 @@
 param($configPath)
-$MIN_SEATS = 1;
 Write-Host "Reading configuration from path $configPath";
 
-$config = Get-Content -Path ($configPath) -Raw | ConvertFrom-Json;
-$data = Get-Content -Path ($config.pathToData) -Raw | ConvertFrom-Json;
+try {
+
+    $config = Get-Content -Path ($configPath) -Raw | Out-String | ConvertFrom-Json;
+    $MIN_SEATS = $config.minSeats_nat;
+    $data = Get-Content -Path ($config.pathToData) -Raw | Out-String |ConvertFrom-Json;
+}
+catch {
+    Write-Host $_;
+    exit;
+}
+
 
 $max_population = 0;
 $seats_after_guaranteed = $config.maxSeats_nat;
 
 # Add Min
 foreach ($country in $data) {
-    $max_population += $country.population;
+    $country | Add-Member NoteProperty -Name "seats" -Value $MIN_SEATS; 
+    $country | Add-Member NoteProperty -Name "percentage_population" -Value 0; 
+    $country | Add-Member NoteProperty -Name "comma" -Value 0; 
+    $country | Add-Member NoteProperty -Name "sta_seats" -Value ($config.minSeats_sta); 
 
-    $country.seats = $MIN_SEATS;
+    
+    $max_population += $country.population;
     $seats_after_guaranteed -= $MIN_SEATS;
 }
+$data;
 
 # Calculate Population Percentage
 foreach ($c in $data) {
@@ -60,3 +73,12 @@ Write-Host "After allocating: $total_seats/"$config.maxSeats_nat;
 $data | ForEach-Object {
     Write-Output "Name: $($_.Name), Seats: $($_.Seats)"
 }
+
+$sum = 0;
+$data | ForEach-Object{
+    $sum += $_.sta_seats;
+}
+
+$data = $data | Sort-Object -Property seats -Descending
+Write-Host "State-Council:$sum"   "Count: "$data.Count -ForegroundColor Green;
+Set-Content -Path "C:\Code\worldbuilding\end.json" -Value ($data | ConvertTo-Json);

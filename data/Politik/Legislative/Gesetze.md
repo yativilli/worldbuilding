@@ -7,3 +7,4 @@ Die Gesetze der vereinigten Staaten von Europa werden durch das Parlament [[Parl
 - [[Parliamentary Wage Act of 2024]]
 - [[Secession Act of 2024]]
 - [[Unification Act of 2024]]
+- [[National Banking Act of 2024]]

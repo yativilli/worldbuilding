@@ -1,38 +1,214 @@
 [
     {
-        "name":"Switzerland",
-        "population":9000000,
-        "seats": 0,
-        "percentage_population": 0,
-        "comma": 0
+        "name": "Norwegen",
+        "population": 5368000
     },
     {
-        "name": "Germany",
-        "population": 80000000,
-        "seats": 0,
-        "percentage_population": 0,
-        "comma": 0
+        "name": "Schweden",
+        "population": 10582066
     },
     {
-        "name": "France",
-        "population": 45000000,
-        "seats": 0,
-        "percentage_population": 0,
-        "comma": 0
+        "name": "Finnland",
+        "population": 5469641
     },
     {
-        "name": "United Kingdom",
-        "population": 60000000,
-        "seats": 0,
-        "percentage_population": 0,
-        "comma": 0
+        "name": "Dänemark",
+        "population": 5900000
     },
-    ,
+    {
+        "name": "Island",
+        "population": 396960
+    },
+    {
+        "name": "Schottland",
+        "population": 5436600
+    },
+    {
+        "name": "Irland",
+        "population": 6197100
+    },
+    {
+        "name": "Grossbritannien",
+        "population": 60245029
+    },
+    {
+        "name": "Estland",
+        "population": 1300000
+    },
+    {
+        "name": "Lettland",
+        "population": 1875757
+    },
+    {
+        "name": "Litauen",
+        "population": 2869660
+    },
+    {
+        "name": "Königsberg",
+        "population": 1029966
+    },
+    {
+        "name": "Belarus",
+        "population": 9200000
+    },
+    {
+        "name": "Ukraine",
+        "population": 34777436
+    },
+    {
+        "name": "Krim",
+        "population": 1967200
+    },
+    {
+        "name": "Polen",
+        "population": 36753736
+    },
+    {
+        "name": "Tschechien",
+        "population": 10700000
+    },
+    {
+        "name": "Slovakei",
+        "population": 5500000
+    },
+    {
+        "name": "Österreich",
+        "population": 9158750
+    },
+    {
+        "name": "Ungarn",
+        "population": 9584627
+    },
+    {
+        "name": "Rumänien",
+        "population": 19000000
+    },
+    {
+        "name": "Slowenien",
+        "population": 2100000
+    },
+    {
+        "name": "Kroatien-Bosnien",
+        "population": 6049209
+    },
+    {
+        "name": "Serbien",
+        "population": 8014819
+    },
+    {
+        "name": "Montenegro",
+        "population": 616000
+    },
+    {
+        "name": "Kosovo",
+        "population": 1773971
+    },
+    {
+        "name": "Bulgarien",
+        "population": 6447710
+    },
+    {
+        "name": "Mazedonien",
+        "population": 1800000
+    },
+    {
+        "name": "Albanien",
+        "population": 2402113
+    },
+    {
+        "name": "Griechenland",
+        "population": 10482487
+    },
+    {
+        "name": "Zypern",
+        "population": 1200000
+    },
+    {
+        "name": "Malta",
+        "population": 519562
+    },
+    {
+        "name": "Schweiz",
+        "population": 8805000
+    },
+    {
+        "name": "Frankreich",
+        "population": 68025836
+    },
+    {
+        "name": "Portugal",
+        "population": 10421117
+    },
+    {
+        "name": "Spanien",
+        "population": 38589215
+    },
+    {
+        "name": "Katalonien",
+        "population": 8017000
+    },
+    {
+        "name": "Italien",
+        "population": 56200000
+    },
+    {
+        "name": "Korsika-Sardinien",
+        "population": 1935010
+    },
+    {
+        "name": "Belgien",
+        "population": 11600000
+    },
+    {
+        "name": "Luxembourg",
+        "population": 660809
+    },
+    {
+        "name": "Baskenland",
+        "population": 2208174
+    },
+    {
+        "name": "Deutschland",
+        "population": 84669326
+    },
+    {
+        "name": "Niederlande",
+        "population": 17947684
+    },
     {
         "name": "Andorra",
-        "population": 300000,
-        "seats": 0,
-        "percentage_population": 0,
-        "comma": 0
+        "population": 79034
+    },
+    {
+        "name": "Liechtenstein",
+        "population": 40032
+    },
+    {
+        "name": "San Marino",
+        "population": 33869
+    },
+    {
+        "name": "Aostatal",
+        "population": 123360
+    },
+    {
+        "name": "Südtirol",
+        "population": 1073574
+    },
+    {
+        "name": "Wahlkreis Amerika",
+        "population": 1648474
+    },
+    {
+        "name": "Wahlkreis Europa",
+        "population": 281551
+    },
+    {
+        "name": "Wahlkreis Afrika",
+        "population": 1133146
+    },
+    {
+        "name": "Wahlkreis Ozeanien",
+        "population": 271442
     }
 ]

@@ -1,4 +1,4 @@
-Das Kabinett der vereinigten Staaten von Europa ist das wichtigste Organ der [[Exekutive]]; Sie bildet die Regierung der [[Die Vereinigten Staaten von Europa|Union]] und besteht aus den 11 Kommissaren der [[Kommission der Vereinigten Staaten von Europa|europäischen Kommission]], dem [[Präsident der vereinigten Staaten von Europa|Unionspräsidenten]] sowie weiteren wichtigen Führungsbeamten. Sie bedürfen der Bestätigung des [[Parlament der Vereinigten Staaten von Europa|Parlaments]] und werden auf Vorschlag des Kommissionspräsidenten entlassen und ernannt.
+Das Kabinett der vereinigten Staaten von Europa ist das wichtigste Organ der [[Exekutive]]; Sie bildet die Regierung der [[Die Vereinigten Staaten von Europa|Union]] und besteht aus den 11 Kommissaren der [[Kommission der Vereinigten Staaten von Europa|europäischen Kommission]], dem [[Präsident der vereinigten Staaten von Europa|Unionspräsidenten]] sowie weiteren wichtigen Führungsbeamten. Sie bedürfen der Bestätigung des Parlaments und werden auf Vorschlag des Kommissionspräsidenten entlassen und ernannt.
 
 Der Präsident der Union leitet die Kabinettssitzungen und koordiniert deren Arbeit.
 

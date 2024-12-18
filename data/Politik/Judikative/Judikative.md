@@ -1,0 +1,2 @@
+Die Judikative wird durch den [[Europäischer Gerichtshof|Europäischen Gerichtshof]] wahrgenommen. 
+Er beurteilt Streitigkeiten im Bereich von Unionsrecht und Verfassung und sein Recht steht über Gliedstaatlichem Recht. 
